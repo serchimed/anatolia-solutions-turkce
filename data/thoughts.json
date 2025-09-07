@@ -1,0 +1,71 @@
+{
+  "thoughts": [
+    {
+      "title": "Neden Önce Arayüz? (Frontend-First)",
+      "url_name": "why-interface-first",
+      "image": "why-interface-first.jpg",
+      "keywords": "önyüz öncelikli geliştirme, kullanıcı deneyimi tasarımı, prototipleme, arayüz doğrulama, çevik ürün geliştirme",
+      "html_desc": "Ön yüz öncelikli yaklaşımın yazılım geliştirmedeki avantajlarını keşfedin; kullanıcı deneyimine odaklanın, maliyetleri optimize edin ve erken prototipleme ile arayüz doğrulaması sayesinde işbirliğine dayalı ürün tasarımını güçlendirin.",
+      "short_desc": "Ön yüz öncelikli yaklaşım, geliştirme sürecinde görsel bir prototipin erken aşamada ortaya çıkarılmasına dayanır. Kullanıcıların ürünü erkenden deneyimleyip doğrulamasına imkân tanır ve özelliklerin gerçek ihtiyaçları karşılayıp karşılamadığı, karmaşık arkaplan altyapısına yatırım yapılmadan önce anlaşılır. Yöntem; iletişimi daha verimli hale getirir, gereksiz işleri azaltır, maliyetleri düşürür ve kullanıcıların nihai ürüne olan sahiplenmesini ve kabulünü artırır.",
+      "content": [
+        "Frontend-first yaklaşımı, kullanıcı deneyimini ve ürünün görsel tutarlılığını geliştirme sürecinin merkezine konumlandırarak önemli avantajlar sunar.",
+        "Önce, temel fonksiyonlarla çalışan bir prototip oluşturarak karmaşık teknik altyapıya yatırım yapmayı öteleyebiliriz. Böylece kullanıcılar ürünle daha erken etkileşime geçebilir ve gereksiz olabilecek özellikler henüz geliştirme aşamasındayken tespit edilebilir.",
+        "Görsel arayüzün erken geliştirilmesi, gerçek kullanım senaryolarını daha erken doğrulamamızı sağlar. Örneğin bir finansal analiz aracında, karmaşık algoritmalar yerine basit bir filtreleme modülüyle \"veri karşılaştırma\" ihtiyacının karşılanabileceği keşfedilebilir. Benzer şekilde, bir e-ticaret platformunda \"hızlı ödeme\" işlevinin öncelikli olduğu erken aşamada anlaşılarak gereksinimler buna göre optimize edilebilir.",
+        "Önce arayüz yaklaşımında, backend, doğrulanmış kullanıcı ihtiyaçlarına göre şekillenir ve gereksiz API entegrasyonları veya veritabanı optimizasyonlarından kaçınılır.",
+        "Geliştiriciler ve kullanıcılar arasındaki iletişim, somut ekranlar üzerinden gerçekleştiğinde daha verimli olur. \"Nasıl bir tablo istiyorsunuz?\" yerine \"Elimizdeki veriyi bu ekranda nasıl görselleştirelim?\" gibi daha net sorular sorulabilir ve daha iyi yanıtlar alınabilir. Bu da ekip içinde tutarlı bir vizyon oluşmasını sağlar.",
+        "Kullanıcıların prototip aşamasında sürece dahil edilmesi, hem sahiplenme duygusunu artırır hem de \"İhtiyacım olan bu muydu?\" sorgulamasını baştan çözer. Ürüne karşı oluşabilecek direnci azaltır.",
+        "Bazı sistemler için backend'in erken şekillenmesi gerekebilse de, frontend-first yaklaşımı çoğu projede kullanıcı deneyimine öncelik vererek değişime direnci kırar, maliyetleri optimize eder ve ürünü kullanıcıyla birlikte inşa etmeyi sağlar. Doğru uygulandığında hem geliştirme sürecini hem de ürünün başarısını önemli ölçüde iyileştirir."
+      ]
+    },
+    {
+      "title": "Yapay Zeka'nın Bilinci Var Mı?",
+      "url_name": "does-artificial-intelligence-have-consciousness",
+      "image": "does-artificial-intelligence-have-consciousness.jpg",
+      "keywords": "yapay zeka, bilinç, makine anlayışı, kolektif zihin, makine öğrenimi, sinir ağları, zihin felsefesi",
+      "html_desc": "Yapay zekâ çağında bilincin felsefi ve bilimsel boyutlarını keşfedin; makineler insanlığın kolektif zihnini yansıtırken gerçek anlamda kavrayışa ulaşamaz.",
+      "short_desc": "Bilinç, hem bilim hem de felsefe için hâlâ çözülemeyen bir gizemdir ve yapay zekânın yükselişi, doğasını yeniden sorgulamamıza yol açmaktadır. Makineler, devasa veri kümeleriyle insan tepkilerini taklit edebilse de gerçek bir anlayışa ve duygusal derinliğe sahip değildir. Biraz aynalar gibi, yapay zekâ sistemleri insanlığın ortak düşüncelerini yansıtır fakat bilinçli deneyimi tanımlayan öz-farkındalık ya da biyolojik temelden yoksundur.",
+      "content": [
+        "Bilinç, insan varoluşunun en gizemli boyutlarından biridir ve yapay zekâ teknolojilerindeki gelişmeler, bu gizemi yeniden sorgulatmaktadır. Kendimizi ve çevremizi nasıl algıladığımız, deneyimlerimizi nasıl bir bütün olarak hissettiğimiz soruları, şimdi \"Makineler de bilinçli olabilir mi?\" sorusuyla genişliyor. Büyük dil modelleri gibi teknolojiler, karmaşık veriyi işleyip insan benzeri yanıtlar üretebilse de, henüz gerçek anlamda \"kavrama\" yeteneğinden yoksundur.",
+        "Psikolog Doğan Cüceloğlu'nun ortaya attığı \"kültür robotu\" kavramı, toplumsal normlara ve kalıplara körü körüne bağlı kalarak kendi benliğiyle bağlantısını yitiren, derinlemesine düşünme ve sorgulama yetisini kaybetmiş bireyleri tanımlar. Bu kişiler \"Muhteşemdi!\" veya \"Çok güzeldi!\" gibi kalıp ifadeler kullanır, ancak \"Neden güzeldi?\" sorusuna tatmin edici yanıtlar veremezler.",
+        "Şaşırtıcı olan şudur ki, kültür robotu seviyesindeki insanın zekâsından çok daha ileri bir hesaplama ve yanıt üretme yeteneğine sahip yapay zekâlar, hâlâ bilinçten yoksundur. Günümüzün en gelişmiş yapay zeka sistemleri, tıpkı belirli bir kültürel kalıba sıkışmış gibi, büyük veri setlerinden öğrendikleri kalıpların ötesine geçemiyor ve gerçek bir kavrayış sergileyemiyor. Peki, fikirler, duygular ve biyolojik sistemimiz arasındaki bağ tam olarak nerededir? Bir gün bu bağı anlayabilecek miyiz?",
+        "Bilinçli bir varlık olan insan, morali bozulduğunda eyleme geçme motivasyonunu kaybedebilir. Peki, bilinçli bir makinede de benzer durumlar gözlemlenebilecek mi? Yoksa makinelerin duygusal zekâsı, insan zekâsını aşacak düzeye mi ulaşacak? Bu sorular, hem bilimsel araştırmaların hem de felsefi düşüncelerin kesişiminde yer alıyor.",
+        "Yapay zekânın gerçek bir anlama ve kavrama yetisi kazanabilmesi için, sadece metinsel verileri işlemekten öteye geçmesi, fiziksel dünya ile dil arasında anlamlı bağlantılar kurabilmesi gerekmektedir. Görüntü işleme ve doğal dil anlama sistemlerinin entegrasyonu, bu yolda önemli bir adım olabilir. Ancak bilinç gibi derin bir fenomenin salt hesaplama gücüyle açıklanabileceğine dair inançlarımızı sorgulamamız gerekmektedir.",
+        "Yapay zekâ sistemleri, milyarlarca insanın ürettiği metinler, konuşmalar, kitaplar, makaleler ve diğer içeriklerden oluşan devasa veri havuzlarıyla eğitiliyor. Bu veri havuzu, insanlığın kolektif düşüncelerinin, fikirlerinin, inançlarının ve bilinç deneyimlerinin dijital bir arşivi niteliğinde. Dolayısıyla, bir yapay zekâ modelinden aldığımız yanıtlar, aslında binlerce yıllık insan bilincinin ürünü olan düşüncelerin yeniden düzenlenmiş, işlenmiş ve sentezlenmiş halleridir. Makineler bilinçli olmasa da, insanlığın kolektif bilincini yansıtan bir ayna gibi çalışıyor. Bize kendi düşüncelerimizin, endişelerimizin, umutlarımızın ve hayallerimizin yansımalarını sunuyorlar. Bu açıdan, yapay zekâ ile kurduğumuz diyaloglar, belki de kendi kolektif zihnimizle yaptığımız bir tür içsel konuşmadır."
+      ]
+    },
+    {
+      "title": "İlahi Adaletin Algoritması",
+      "url_name": "the-algorithm-of-divine-justice",
+      "image": "the-algorithm-of-divine-justice.jpg",
+      "keywords": "teknoloji, ilahi adalet, baskı, otomasyon, insan ilerlemesi",
+      "html_desc": "Teknolojinin serüveni, ilkin baskının gölgesinde başlayan, ardından özgürleşmenin ışığıyla taçlanan döngülerle örülüdür. Programlama ve otomasyonun ufku ise insanlığa, şimdiye dek görülmemiş bir refah çağının kapılarını aralamaktadır.",
+      "short_desc": "Teknolojik ilerlemeler çoğu zaman önce güç sahiplerince sömürü aracı olarak kullanılsa da, ilahî koruyucu iradenin rehberliğiyle en sonunda insanlığın yararına hizmet eder. Yazılım ve otomasyonun yükselişi, eşi benzeri görülmemiş bir refah çağının habercisi olarak karşımıza çıkar.",
+      "content": [
+        "Dönem dönem teknolojik gelişmeleri, başka insanlara haksızlık yaparak, güç elde etmek için kullananlar oldu. Ancak teknoloji, her zaman insanların genel konforunu arttırmayı da başardı.",
+        "Kötüler ne kadar güçlendiğini düşünürse düşünsün, iyiler için keyifli ve konforlu yaşam alanları her zaman oluştu. Biz yaşamın algoritmasının detaylarını hiçbir zaman tam anlayamayacak olsak da Allah, doğru zamandaki dokunuşlarla insanlığın ilerlemesinin koruyucusudur.",
+        "Bir dönem demiri işleyebilenlerin, işleyemeyenlere yaptığı zulüm, yazılımı işleyerek günümüzdeki silahları kontrol edebilenlerin yaptığı zulümden daha zalimceydi. Ama onların da dönemi son buldu.",
+        "Yazılımın hayra kullanılması sayesinde insanlık, bir kere daha yalancı zulümün baskısından kurtulacak. Üstelik bu defa, otomasyonun desteği ile insanlık tarihinin en aydınlık ve kalıcı refah döneminine de tanık olabiliriz..."
+      ]
+    },
+    {
+      "title": "DeepSeek Olayı ve Gerçek Programcıları Ölçebilmek Hakkında",
+      "url_name": "measuring-real-software-developers-programmers",
+      "image": "measuring-real-software-developers.jpg",
+      "keywords": "yazılım geliştiricinin değerlendirmesi, kodlama testleri, gerçek dünya programcılığı, programlama etiği, geliştirici tutkusu, teknoloji sektörünün zorlukları",
+      "html_desc": "Teknoloji dünyasında gerçek programcılar, resmi gerekliliklerin ötesinde programlamaya duydukları tutku ve adanmışlıkla ayrılır.",
+      "short_desc": "Milyar dolarlık bütçelerin her zaman yenilik getirmediği teknoloji dünyasında, küçük ekipler tutku ve yetenekle devasa kaynaklara meydan okuyabiliyor. Yazı, sektördeki denetim dengesizliklerini, jeopolitik söylemlerin etkisini ve finansal kazançtan çok gerçek merakla hareket eden programcıları ayırt etmenin yollarını ele alıyor.",
+      "content": [
+        "Günümüz teknoloji dünyasında ilginç bir paradoks yaşanıyor. Yakın zamanda yapay zeka modeli geliştiricisi DeepSeek'in 7 milyon dolarlık bütçeyle GPT-4 benzeri bir model geliştirdiğini duyurması, bu paradoksun çarpıcı bir örneği oldu. Bir tarafta OpenAI gibi 7 milyar dolar seviyesinde devasa bütçelerle çalışan ve en ileri teknolojiyi ürettiklerini iddia eden şirketler var. Diğer tarafta ise DeepSeek gibi bunun binde biri kadar bütçeyle benzer kalitede çözümler ürettiğini gösteren ekipler bulunuyor. Bu durum, bilişim sektörünün son yıllarda yaşadığı dönüşümün ve yetenek-kaynak dengesinin sorgulanması gerektiğinin çarpıcı bir göstergesi.",
+        "Bilişim sektörü, maalesef son dönemde her seviyeden “faydalı gibi görünüp zarar verenlerin” ilgi odağı haline geldi. Peki böyle bir ortamda gerçek yazılım tutkunlarını zaman ve kaynak kaybetmeden nasıl ayırt edebiliriz?",
+        "Aslında bunu anlamak için sorulabilecek çok basit bir soru var:",
+        "\"İş veya okul projelerinin dışında, yani zorunda kalmadan geliştirdiğin, kendi ilgi alanında bir yazılım projen var mı?\"",
+        "Daha fazla tutku arıyorsanız şu soruyu da yöneltebilirsiniz:",
+        "\"Hiç gece uykun kaçtığında kalkıp bilgisayarın başına geçerek kod yazdığın oldu mu?\"",
+        "Bu iki soruya verilen cevaplar, karşınızdaki kişinin gerçekten yazılım tutkunu mu, yoksa sadece yüksek maaş hayalinin peşinde mi olduğunu anlamamıza yardımcı olabilir.",
+        "Özünde yazılımcı ruhu taşıyan biri için kod yazmak, mesai saatleriyle sınırlı bir görev değil, tutkuyla yapılan bir uğraştır. Ve hatta artık toplumsal bir sorumluluktur. Bu kişiler sorunların kök nedenlerine inmeyi sever ve bu yüzden hazır çözümleri konfigüre etmenin temeldeki problemi çözmeyebileceğini anlayabilirler. Gerekiyorsa sıfırdan geliştirmeyi tercih eder ve kendi projelerini hayata geçirmekten keyif alırlar. Bu tutku, onları sadece yüksek maaş için sektöre giren diğerlerinden kolaylıkla ayırır. Öyle ki, bazıları güçlü hafızaları sayesinde mülakat tekniklerini ve algoritmaları ezberleyerek Silikon Vadisi şirketlerinin zorlu mülakatlarını geçseler de, iş gerçek değer üretmeye geldiğinde başarısız olurlar. Çünkü yazılım geliştirme, formülleri ezberlemekten çok daha fazlasını gerektirir...",
+        "İster yeni bir yazılım geliştiricisi işe alıyor olun, ister bir yazılım projesine yatırım yapmayı planlıyor olun, ya da kendi kariyer yolculuğunuzda kendinizi değerlendiriyor olun; bu sorular size doğru yolu gösterecek önemli bir pusula görevi görecektir.",
+        "Belki de bazıları için bu sorular, yazılım geliştirme alanında devam etmek yerine, yeteneklerini ve ilgilerini daha iyi değerlendirebilecekleri farklı kariyer yolları seçmek için son bir uyandırma çağrısı olacaktır."
+      ]
+    }
+  ]
+}

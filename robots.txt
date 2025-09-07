@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://anatolia.solutions/sitemap.xml
+Sitemap: http://turkce.anatolia.solutions/sitemap.xml

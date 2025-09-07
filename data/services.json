@@ -1,0 +1,359 @@
+{
+  "services": [
+    {
+      "category": "Eğitimler",
+      "category_url": "trainings",
+      "name": "Etkili Takım Oyuncusu Olmanın Düşünsel Temelleri Eğitimi",
+      "price": "$100.00",
+      "url_name": "training-fundamentals-of-being-a-good-team-player",
+      "full_url": "anatolia.solutions/services/training-fundamentals-of-being-a-good-team-player.html",
+      "pay_url": "buy.stripe.com/eVa6oP7sAaTze4w5km",
+      "images": [
+        "training-fundamentals-of-being-a-good-team-player.png"
+      ],
+      "keywords": "ekip geliştirme, kişisel gelişim, kurum kültürü eğitimi, iş birliği eğitimi, ekip çalışması geliştirme",
+      "html_desc": "Etkili takım oyuncusu olmanın düşünsel temelleri eğitimi, işbirliği becerilerini geliştirme, proje yönetimi yetkinliklerini artırma, etkili iletişim stratejileri oluşturma, kişisel gelişimi destekleme ve organizasyonel dinamikleri anlama üzerine odaklanmaktadır.",
+      "short_desc": "Etkili bir takım oyuncusu olmanın temellerini öğreten eğitim programı, günümüz iş dünyasının vazgeçilmez unsurları olan işbirliği, liderlik ve iletişim becerilerini geliştirir. Program aynı zamanda bireysel gelişimi destekler, duygusal olgunlaşmayı sağlar ve çalışanların farklı örgütsel ortamlarda başarıyla varlık göstermelerini olanaklı hale getirir.",
+      "detail_desc": [
+        {
+          "title": "Eğitim Hakkında",
+          "content_html": "<em>Eğitime Genel Bakış</em><p>Program, profesyonelleri etkili işbirliği kurma, projeleri güvenle yönetme ve karmaşık organizasyonlarda kişisel gelişim sağlama becerileriyle donatır.</p><em>İşbirliği ve İletişim</em><p>Katılımcılar grup gelişim aşamalarını keşfederek ve stratejik iletişim pratiği yaparak güçlü takım çalışması becerileri kazanırlar. İletişim engellerini aşmayı, mesajları hedef kitlenin kapasitesine göre uyarlamayı ve hızla değişen ortamlarda netlik sağlamayı öğrenirler.</p><em>Proje Yönetimi</em><p>Eğitim, farklı proje yönetim metodolojileri arasında seçim yapmak için pratik yaklaşımlar sunar. Katılımcılar çevik çalılşma periyodu döngülerini (scrum sprints) kavrar ve maksimum proje başarısı için farklı yaklaşımları ne zaman ve nasıl uygulayacaklarını öğrenirler.</p><em>Kişisel Gelişim</em><p>Teknik becerilerin ötesinde program kişisel gelişimi destekler. Katılımcılar yaşam aşamaları üzerinde düşünür, duygusal olgunluklarını güçlendirirler ve uyumlu bir ekonomik zihniyet geliştirirler.</p>"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Eğitim kimler için uygundur?",
+          "answer": "<p>Eğitim, iş birliğine önem veren ve ekip içinde etkili çalışmak için gerekli beceri ve bakış açısını geliştirmek isteyen herkes için idealdir.</p>"
+        },
+        {
+          "question": "Eğitimin süresi ne kadardır?",
+          "answer": "<p>Eğitim genellikle 4 saat sürmektedir, ancak ihtiyaçlarınıza göre uyarlanabilir.</p>"
+        },
+        {
+          "question": "Eğitime katılmak için herhangi bir ön koşul var mı?",
+          "answer": "<p>Herhangi bir özel ön koşul yoktur. Eğitim tüm seviyeler için uygundur.</p>"
+        }
+      ],
+      "why_buy": "Eğitim sayesinde takım çalışması, iletişim ve işbirliği becerilerinizi güçlendirerek kariyer hedeflerinize daha hızlı ulaşacaksınız. Projelerin zaman içinde nasıl geliştiği ve insanların motivasyonlarını anlama konusunda kazandığınız uzmanlık, sizi herhangi bir organizasyonda vazgeçilmez bir çalışan haline getirecek ve profesyonel değerinizi önemli ölçüde artıracaktır."
+    },
+    {
+      "category": "Eğitimler",
+      "category_url": "trainings",
+      "name": "Yapay Zeka ile Konuşmak Eğitimi",
+      "price": "$100.00",
+      "url_name": "training-ai-prompting",
+      "full_url": "anatolia.solutions/services/training-ai-prompting.html",
+      "pay_url": "buy.stripe.com/6oE5kLcMU3r74tWcMU",
+      "images": [
+        "training-ai-prompting.png"
+      ],
+      "keywords": "yapay zeka eğitimi, yapay zeka tanıtımı, yapay zeka yönlendirme eğitimi, prompt mühendisliği, chatgpt eğitimi, yapay zeka riskleri ve fırsatları",
+      "html_desc": "Yapay zeka ile etkili iletişim kurmak, nasıl çalıştığını anlamak, potansiyel riskleri öğrenmek ve en iyi sonuçları elde etmek için doğru prompt örneklerini keşfetmek istiyorsanız, bu eğitim tam size göre!",
+      "short_desc": "Yapay zekânın ne olduğunu, büyük dil modellerinin bilgiyi nasıl işleyip ürettiğini ve onların tam potansiyelini açığa çıkaracak etkili istemler (prompt) oluşturma zanaatını ele alan kapsamlı ve uygulamalı bir keşif programı sunuyoruz. Katılımcılar, pratik alıştırmalar ve gerçek dünya uygulamaları aracılığıyla; veri analizi, yaratıcı görsel üretimi ve müzik bestelemeye kadar farklı alanlarda yapay zekâdan yararlanmayı öğrenir. Ayrıca, yapay zekâ destekli geleceğimizi şekillendiren dönüştürücü fırsatlar ve risklere dair eleştirel bir farkındalık da geliştirirler.",
+      "detail_desc": [
+        {
+          "title": "Eğitim Hakkında",
+          "content_html": "<p>Eğitime katılan kişiler, yapay zeka dünyasına sağlam temelli bir giriş yaparlar. İnsan zekasından, makine zekasının yükselişine felsefi konuların da ele alındığı, yapay zekanın temel kavramlarının anlatıldığı teorik bölümler ile başlanır. Büyük dil modellerinin, teknolojinin \"konuşan beyni\" olarak işleyişi ve sistemlerin gerçek bilinç sahibi olup olmadığı gibi derin sorular da ele alınır. Katılımcılar ayrıca yapay zekanın sunduğu fırsatlar ve riskler hakkında dengeli bir perspektif kazanır.</p><p>Programın ana odak noktası, yapay zeka sistemleriyle verimli çalışmanın temeli olan etkili prompt hazırlama zanaatıdır. Katılımcılar ideal promptların anatomisini öğrenir, güçlü sonuçlar elde etme yöntemlerini keşfeder ve rol oyunları, benzetmeler ve hiyerarşik yapılandırma içeren prompt tasarımları geliştirirler. Zincirleme promptlar gibi ileri teknikler sayesinde karmaşık problemleri adım adım çözme becerileri edinirler.</p><p>Eğitim ayrıca yapay zekanın farklı alanlardaki pratiklerini gösterir. Katılımcılar, Excel gibi mevcut araçların gücünü nasıl artıracaklarını, etkileyici görsel üretme tekniklerini ve geleneksel sınırları aşan müzik besteciliği yöntemlerini öğrenirler.</p><p>Program sonunda katılımcılar yapay zeka temellerine dair sağlam anlayış, etkili prompt geliştirme becerileri ve analitik-yaratıcı uygulamalar için gerekli ilhamla donanmış olacaklardır.</p>"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Eğitim katılımcılarına hangi materyaller veriliyor?",
+          "answer": "<p>Eğitime katılanlara <a href=\"/products/book-yapay-zeka-ile-konusmak.html\" target=\"_blank\">Yapay Zeka ile Konuşmak Çalışma Rehberi</a> ücretsiz olarak verilecektir.</p>"
+        },
+        {
+          "question": "Eğitimde hangi yapay zeka araçları kullanılıyor?",
+          "answer": "<p>Open AI ChatGPT, GPT-OSS, Anthropic Claude, Google Gemini, Microsoft Copilot, Prome AI, Suno AI, DeepSeek, Llama, Gemma, Qwen, Granite araçları kullanılmaktadır.</p>"
+        },
+        {
+          "question": "Eğitim kimler için uygundur?",
+          "answer": "<p>Eğitim, profesyoneller, öğrenciler, içerik oluşturucuları ve yapay zeka araçlarıyla etkili bir şekilde çalışma konusunda uzmanlaşmak isteyen herkes için idealdir.</p>"
+        },
+        {
+          "question": "Eğitimin süresi ne kadardır?",
+          "answer": "<p>Eğitim genellikle 4 saat sürmektedir, ancak ihtiyaçlarınıza göre uyarlanabilir.</p>"
+        },
+        {
+          "question": "Eğitime katılmak için herhangi bir ön koşul var mı?",
+          "answer": "<p>Herhangi bir özel ön koşul yoktur. Eğitim tüm seviyeler için uygundur.</p>"
+        }
+      ],
+      "why_buy": "Bu eğitimle yapay zeka ve büyük dil modellerini işlevsel bir şekilde kullanmayı öğrenerek, kanıtlanmış prompt tekniklerinde uzmanlaşacak ve AI'ı analiz ile yaratıcı çalışmalarınızda pratik olarak uygulayabileceksiniz. Bu beceriler sayesinde iş verimliliğinizi kat kat artıracak, rekabette öne geçecek ve gelecekteki iş fırsatlarında avantajlı konuma geleceksiniz."
+    },
+    {
+      "category": "Eğitimler",
+      "category_url": "trainings",
+      "name": "Tarihe Geçen Programlama Kaynaklı Hatalar ve Siber Güvenlik Farkındalığı Eğitimi",
+      "price": "$250.00",
+      "url_name": "training-cybersecurity-awareness",
+      "full_url": "anatolia.solutions/services/egitim-cybersecurity-awareness.html",
+      "pay_url": "buy.stripe.com/00wcN6gAq5WHeEndFCcQU09",
+      "images": [
+        "training-cybersecurity-awareness.png"
+      ],
+      "keywords": "siber güvenlik farkındalık eğitimi, programlama ile ilgili hatalar, herkes için güvenlik farkındalığı, güvenli bilgi teknolojisi eğitimi",
+      "html_desc": "Siber güvenlik risklerini nasıl önleyeceğinizi, küçük ihmallerin yol açtığı büyük felaketleri inceleyerek öğrenmek için eğitimimize katılın.",
+      "short_desc": "Farkındalık eğitimimiz, yazılım mühendisliği ve siber güvenlik tarihindeki en bilinen başarısızlıkları ve ihlalleri inceler. Gerçek dünya vakaları üzerinden; programlama hatalarının, tasarım kusurlarının ve gözden kaçan güvenlik açıklarının nasıl büyük finansal, operasyonel ve toplumsal sonuçlara yol açabileceği öğrenilir. Eğitim, geçmiş olaylardan çıkarılan dersleri vurgulayarak geliştiricilerin ve profesyonellerin eleştirel düşünme becerilerini güçlendirmelerine, program kalitesini artırmalarına ve daha güçlü bir siber güvenlik farkındalığı kültürü oluşturmalarına yardımcı olur.",
+      "detail_desc": [
+        {
+          "title": "Eğitim Hakkında",
+          "content_html": "<p>Bilişim güvenliği farkındalık eğitimi, yazılım hatalarının, güvenlik ihlallerinin ve programlama zayıflıklarının nasıl büyük çaplı olaylara dönüşebileceğini gerçek dünya örnekleri üzerinden inceleyerek güvenlik farkındalığını artırır. Katılımcılar, yapılandırma hataları, güvensiz güncelleme mekanizmaları veya zayıf kimlik doğrulama gibi küçük gözden kaçırmaların milyonları etkileyen kesintilere, veri sızıntılarına ve finansal kayıplara nasıl yol açtığını keşfederler. Skandallara yol açmış örneklerin incelenmesi, modern sistemlerin ne kadar birbirine bağlı olduğunu ve bir alandaki hatanın tüm organizasyon genelinde hızla nasıl zincirleme etki yaratabileceğine değinilmektedir.</p><p>Teknik boyutun ötesinde, eğitim güvenlik bilincine sahip kültürler oluşturmanın önemini vurgular. Katılımcılar, güvenliği sadece uyum gerekliliği olarak görmekten öteye geçmeyi ve koruyucu düşünceyi günlük tasarım ve karar alma süreçlerine entegre etmeyi öğrenirler. Olay sonrası analizler aracılığıyla, yalnızca hataların nasıl meydana geldiğini değil, aynı zamanda organizasyonların iyileşmeyi nasıl yönettiğine de değinilir. Katılımcılar hem önlem alma hem de müdahale süreçlerini anlayabilirler.</p><p>Hem teknik olan hem de teknik olmayan katılımcılar için tasarlanan eğitim, hikâye anlatımı, pratik dersler ve grup tartışmalarını bir araya getirir. Eğitim sonunda, katılımcılar riskleri daha erken fark edebilecek ve organizasyonlarında daha güçlü ve dirençli uygulamalara katkıda bulunabileceklerdir.</p>"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Eğitim katılımcılarına hangi materyaller veriliyor?",
+          "answer": "<p>Eğitime katılanlara <a href=\"/products/book-tarihe-gecen-programatik-hatalar.html\" target=\"_blank\">Tarihe Geçen Programatik Hatalar Çalışma Rehberi</a> ücretsiz olarak verilecektir.</p>"
+        },
+        {
+          "question": "Eğitim kimler için uygundur?",
+          "answer": "<p>Eğitim herkes için uygundur.</p>"
+        },
+        {
+          "question": "Eğitimin süresi ne kadardır?",
+          "answer": "<p>Eğitim genellikle 4 saat sürmektedir, ancak ihtiyaçlarınıza göre uyarlanabilir.</p>"
+        },
+        {
+          "question": "Eğitime katılmak için herhangi bir ön koşul var mı?",
+          "answer": "<p>Herhangi bir özel ön koşul yoktur. Eğitim tüm seviyeler için uygundur.</p>"
+        }
+      ],
+      "why_buy": "Eğitim sayesinde yazılım açıkları ve güvenlik boşlukları konusunda farkındalığınız artacak, riskleri büyümeden önleyebilecek bir bakış açısı geliştireceksiniz. Gerçek vaka analizleriyle desteklenen ve daha bilinçli mühendislik kararları almanızı sağlayacak perspektif, sizi organizasyonunuzda daha değerli bir uzman haline getirecek. Bilişim risklerini fark etme becerisi kariyerinizde önemli fırsatlar yaratacak ve olası sistem sorunlarını önceden görerek şirketinize büyük tasarruflar sağlamanıza olanak tanıyacak."
+    },
+    {
+      "category": "Eğitimler",
+      "category_url": "trainings",
+      "name": "Programlama Projelerinde Kullanılan İngilizce Kelimeler Eğitimi",
+      "price": "$150.00",
+      "url_name": "training-software-vocabulary",
+      "full_url": "anatolia.solutions/services/training-software-vocabulary.html",
+      "pay_url": "buy.stripe.com/8wM7sT6ow6Dj5y06oo",
+      "images": [
+        "training-software-vocabulary.png"
+      ],
+      "keywords": "yazılım ingilizcesi kelime dağarcığı, programlama kelime dağarcığı, geliştiriciler için ingilizce kelime dağarcığı eğitimi",
+      "html_desc": "Yazılım projeleri için gerekli temel İngilizce kelime bilgisini interaktif dersler, gerçek örnekler ve 2.222 kelimeyi kapsayan bir çalışma kılavuzu ile öğrenin.",
+      "short_desc": "Temel İngilizce terimleri öğrenerek küresel yazılım ekiplerinde kendinizi güvenle ifade edin. Eğitimimiz, pratik örnekleri yönlendirmeli alıştırmalarla birleştirerek kelime bilginizi kolayca geliştirmenizi ve bunları gerçek projelerde etkili şekilde kullanmanızı sağlar.",
+      "detail_desc": [
+        {
+          "title": "Eğitim Hakkında",
+          "content_html": "<p>Eğitim, bilişim profesyonellerinin İngilizce kelime dağarcıklarını genişletmelerine ve uluslararası projelerde daha etkili iletişim kurmalarına yardımcı olmak için tasarlanmıştır. Teknik detaylara odaklanmak yerine, İngilizce kelimeleri bağlam içinde açıklamak için programlama dünyasından örnekler kullanılır. Hem kelimelerin anlamlarını hem de gerçek projelerde nasıl kullanıldıklarını anlatmayı hedefleyen bir eğitimdir.</p><p>Dersler aracılığıyla, yeni kelimelerin anlamlarını ve doğru telaffuzlarını öğrenecek, onları cümlelerde kullanma pratiği yapacak ve gözden geçirme egzersizleriyle bilginizi pekiştireceksiniz. Dört dersin sonunda, eğitmeninizle birlikte 100 yaygın kullanılan kelimeyi öğrenmiş olacaksınız ve Yazılım İngilizcesi Çalışma Rehberi ve Tekrar Pratiği Alıştırma Defteri’nin yardımıyla kelime dağarcığınızı 2.222 kelimeye kadar geliştirmeye devam edebileceksiniz.</p>"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Eğitim katılımcılarına hangi materyaller verilmektedir?",
+          "answer": "<p>Katılımcılara, yazılım alanından alınmış örnek İngilizce cümlelerle birlikte 2.222 kelimenin Türkçe çevirilerini içeren <a href=\"/products/book-programlama-ingilizcesi.html\" target=\"_blank\">Programlama İngilizcesi Çalışma Rehberi ve Tekrar Pratiği Defteri</a> verilecektir.</p>"
+        },
+        {
+          "question": "Kelimeler nasıl öğretiliyor?",
+          "answer": "<p>Eğitim sırasında eğitmen, yazılım dünyasından alınan örnek cümlelerle İngilizce kelimeleri açıklar. Her kelimenin Türkçe anlamı öğretilirken, aynı zamanda bu kelimenin yazılım projelerinde iletişimde nasıl kullanıldığına dair örnekler de sunulur. Böylece, hem kelimenin kendisi hem de yaygın olarak kullanıldığı bağlamı anlamak kolaylaşır.</p>"
+        },
+        {
+          "question": "Eğitimde pratik yapma fırsatları var mı?",
+          "answer": "<p>Evet, eğitim sırasında katılımcıların konuşma pratiği yapacağı bölümler bulunmaktadır.</p>"
+        },
+        {
+          "question": "Herhangi bir ödev var mı?",
+          "answer": "<p>Evet. Eğitimimiz, yeni kelimelerin anlamlarını ve doğru telaffuzlarını öğrendiğiniz interaktif oturumlarla başlar.</p><p>Dersler arasında yapmanız gereken ödev, tekrar pratiği defterindeki alıştırmaları tamamlamaktır. Dört dersin sonunda, öğretmeninizle birlikte 100 kelime öğrenmiş olacaksınız.</p><p>Bu aşamadan sonra, kelime bilginizi kendiniz çalışarak geliştirmeye devam etmelisiniz. Çalışma kılavuzu ve tekrar uygulama defteri sayesinde toplamda 2.222 kelimeye ulaşabilirsiniz. Ama gene işiniz bitmiş olmaz bir sonraki seviyede gene kelime dağarcığınızı genişletmeye devam etmelisiniz.</p>"
+        },
+        {
+          "question": "Eğitim hangi programlama dillerine odaklanıyor?",
+          "answer": "<p>Eğitim, programlamanın teknik yönlerine odaklanmaz. Bunun yerine amacı, takım arkadaşlarınızı daha iyi anlayabilmeniz ve iş iletişiminde aktif şekilde yer alabilmeniz için kelime bilginizi geliştirmektir.</p><p>Örneğin şu cümleyi ele alalım: 'In case you are adamant on using multiple inheritance, it should be done in C++.'</p><p>Kursumuzda 'adamant' kelimesi, ısrarcı, inatçı, kararlı anlamıyla öğretilir. Aynı zamanda 'multiple inheritance' (çoklu kalıtım) kavramının C++’ta uygulanabildiğini de duymuş olursunuz.</p><p>Ancak kurs, bunun teknik ayrıntılarına girmez. Odak noktası dil ve iletişimdir.</p>"
+        },
+        {
+          "question": "Eğitim kimler için uygundur?",
+          "answer": "<p>Eğitim, uluslararası ekiplerle küresel projelerde çalışan yazılım geliştiriciler, kültürler arası toplantılarda daha etkili iletişim kurmak isteyen IT profesyonelleri, uzaktan iş fırsatlarını değerlendiren bireyler ve açık kaynak projelerine katkıda bulunarak dil ve kültür engellerini aşmak isteyenler için idealdir.</p>"
+        },
+        {
+          "question": "Eğitimin süresi ne kadardır?",
+          "answer": "<p>Eğitim 16 saat sürmektedir, ancak ihtiyaçlarınıza göre uyarlanabilir.</p>"
+        },
+        {
+          "question": "Eğitime katılmak için herhangi bir ön koşul var mı?",
+          "answer": "<p>Herhangi bir özel ön koşul yoktur. Eğitim tüm seviyeler için uygundur.</p>"
+        }
+      ],
+      "why_buy": "Programlama İngilizcesi eğitimi, uluslararası bilişim projelerinde başarılı olmanız ve kariyerinizi daha hızlı ilerletmeniz için ihtiyaç duyduğunuz rekabet avantajını sağlayacak. Teknik İngilizce ile mücadele etmek veya küresel ekiplerle yapılan toplantılarda tereddüt yaşamak yerine, sizi kendinden emin ve etkili bir iletişimci haline getiren geniş kelime dağarcığı sahip olacaksınız."
+    },
+    {
+      "category": "Eğitimler",
+      "category_url": "trainings",
+      "name": "Test Odaklı Geliştirme ve Test Otomasyon Çalışma Pratiği Eğitimi",
+      "price": "$250.00",
+      "url_name": "training-test-driven-development-workshop",
+      "full_url": "anatolia.solutions/services/egitim-test-driven-development-workshop.html",
+      "pay_url": "buy.stripe.com/6oU8wQbg6gBl67R9pmcQU0a",
+      "images": [
+        "training-test-driven-development-workshop.png"
+      ],
+      "keywords": "TDD eğitimi, birim test atölyesi, test otomasyon atölyesi, programlama eğitimi, geliştirici atölyesi",
+      "html_desc": "Test Odaklı Geliştirme (TDD) metodolojileri üzerine; birim testleri (unit test), entegrasyon testleri (integration) ve kabul testleri (acceptance test) konularını kapsayan C# ve JavaScript dillerinde uygulamalı bir atölye çalışması.",
+      "short_desc": "Teori, canlı gösterimler ve uygulamalı alıştırmalarla test-öncelikli döngüyü öğreten, pratik bir TDD (Test Driven Design-Development) atölyesi sunuyoruz. Bu atölyede xUnit, MochaJS ve Puppeteer kullanılarak programlama süreçlerinde kapsamlı test kapsama alanı elde etmeye yönelik teknikler öğretilir. Katılımcılar, test yazımından başlayarak kod geliştirme döngüsünü deneyimleyerek daha güvenilir, sürdürülebilir ve hatalara karşı dayanıklı programlama pratikleri kazanır.",
+      "detail_desc": [
+        {
+          "title": "Eğitim Hakkında",
+          "content_html": "<em>Atölyeye Genel Bakış</em><p>Uygulamalı atölye, Test Odaklı Geliştirme (TDD) yaklaşımını anlaşılır ve pratik bir şekilde tanıtır. Katılımcılar, C# ve JavaScript gibi diller üzerinden adım adım TDD süreçlerini uygular. Atölyede, TDD’nin kod tasarımı, test stratejisi ve günlük geliştirme alışkanlıklarına etkisi üzerinde durulur.</p> <p>Ayrıca, birim, entegrasyon ve uçtan uca testlerin birbirini nasıl tamamladığı öğretilir. Rehberli alıştırmalar sayesinde, doğru test seviyesini seçme ve farklı test türlerine harcanacak çabayı dengeleme becerisi kazanılır.</p> <p>Atölye sonunda katılımcılar, TDD yaklaşımını günlük projelerinde kullanabilir, tasarım kararlarını destekleyen testler yazabilir ve büyüyen kod tabanına güvenle katkı sağlayabilir. Junior ve orta düzey geliştiriciler temellerini güçlendirirken, senior katılımcılar yöntemlerini geliştirme ve rehberlik etme fırsatı bulur.</p><em>Öğrenme Metodolojisi</em><p>Atölye, öğret–göster–uygula döngüsüyle ilerler. Öncelikle TDD prensipleri ve Red-Green-Refactor döngüsü tanıtılır. Eğitmen daha sonra bu prensiplerin uygulamada nasıl işlediğini gösterir. Katılımcılar ardından test yazarak ve özellikler geliştirerek alıştırmalar yapar; genellikle çiftler veya küçük gruplar hâlinde çalışarak fikir alışverişinde bulunurlar.</p> <p>Örneklerde Visual Studio Code, xUnit, MochaJS ve Puppeteer gibi bilinen araçlar kullanılır, ancak bunlar yalnızca teknikleri açıklamak için sunulur. Katılımcılar, TDD uygulamalarını kendi kullandıkları araç ve dillere uyarlayabilir.</p>"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Etkinlik kimler için uygundur?",
+          "answer": "<p>Atölye, kod kalitesini artırmak, hataları azaltmak ve Test Odaklı Geliştirme uygulamalarını benimsemek isteyen yazılım geliştiriciler, mühendisler ve teknoloji liderleri için tasarlanmıştır.</p>"
+        },
+        {
+          "question": "Teknik ön koşullar nelerdir?",
+          "answer": "<p>Katılımcıların VS Code yüklü olması ve C# veya JavaScript'te temel programlama deneyimi bulunması gerekmektedir. Temel test kavramlarına aşinalık faydalıdır ancak zorunlu değildir.</p>"
+        },
+        {
+          "question": "Önceden test otomasyon deneyimim olması gerekiyor mu?",
+          "answer": "<p>Hayır önceden test konusu deneyimi gerekmez. Atölye temellerle başlar ve bol praktik egzersizle birlikte ileri TDD tekniklerine kadar kademeli olarak ilerler.</p>"
+        },
+        {
+          "question": "Atölyenin yapısı nasıldır?",
+          "answer": "<p>Tam günlük atölye üç aşamadan oluşur. İlk olarak teorik TDD temelleri öğretilir, ardından xUnit/MochaJS/Puppeteer ile canlı eğitmen gösterimleri yapılır ve son olarak VS Code'da rehberli kodlama görevleriyle uygulamalı katılımcı pratiği gerçekleştirilir.</p>"
+        }
+      ],
+      "why_buy": "Atölye çalışması, geliştiricilere Test Odaklı Geliştirme konusunda pratik deneyim kazandırarak, zaman içinde kod kalitesini artıran alışkanlıklar ve zihin yapısına odaklanır. Katılımcılar açıklama, canlı kodlama ve rehberli uygulama döngüsü sayesinde TDD kavramlarını sadece anlamakla kalmaz, aynı zamanda gerçek projelerde güvenle uygulayabilir hale gelir."
+    },
+    {
+      "category": "Danışmanlıklar",
+      "category_url": "consultancies",
+      "name": "Yazılım Konularında Mentorluk ve Danışmanlık",
+      "price": "$35.00",
+      "url_name": "consultancy-software-related-mentoring-and-consulting",
+      "full_url": "anatolia.solutions/services/consultancy-software-related-mentoring-and-consulting.html",
+      "pay_url": "buy.stripe.com/5kA5kLdQY8LrbWoaEH",
+      "images": [
+        "consultancy-software-related-mentoring-and-consulting.png"
+      ],
+      "keywords": "yazılım danışmanlığı, program danışmanlığı, teknik danışmanlık, geliştirici koçluğu, yazılım mimarisi danışmanlığı, mühendislik ekibi optimizasyonu",
+      "html_desc": "İster belirli bir karar için tek seferlik danışmanlık, ister değişim sürecinde sürekli destek şeklinde olsun, yazılım kariyerinizde ve teknik seçimlerinizde netlik kazanmanız için yanınızdayız.",
+      "short_desc": "Kritik bir programlama kararı için hızlı ve doğru danışmanlığa ihtiyaç duyduğunuzda ya da uzun vadeli dijital dönüşüm sürecinizde sürekli ve kapsamlı destek aradığınızda, bizimle iletişime geçebilirsiniz. Ekibimiz, mevcut programlama tercihlerinizi netleştirmenize, hangi teknolojilerin sizin için daha verimli ve sürdürülebilir olacağına karar vermenize yardımcı olur. Ayrıca, hem kısa vadeli ihtiyaçlarınıza hem de uzun vadeli stratejik hedeflerinize uygun çözümler sunarak iş süreçlerinizi daha esnek, güvenli ve ölçeklenebilir hale getirmenizi sağlar.",
+      "detail_desc": [
+        {
+          "title": "Danışmanlık Hakkında",
+          "content_html": "<p>Bireyler ve ekipler için geliştirme başarısını hızlandıran kişiselleştirilmiş yazılım mentorluğu ve danışmanlık hizmetleri sunuyoruz. Yaklaşımımız derin teknik uzmanlığı pratik rehberlikle birleştirerek junior geliştiricilerin kariyerlerini ilerletmesine, senior mühendislerin yeni teknolojilerde uzmanlaşmasına ve geliştirme ekiplerinin iş akışları, algoritmalar ve mimarilerini optimize etmesine yardımcı olur. Birebir mentorluğa, ekip danışmanlığına veya stratejik teknik tavsiye hizmetlerine ihtiyaç duyduğunuzda, gerçek dünyada işe yarayan uygulanabilir çözümlerimizle yanınızdayız. Startup'lardan kurumsal organizasyonlara kadar uzanan deneyimimizle hem anlık sonuçlar hem de sürdürülebilir büyümeyi destekleyen uzun vadeli yetenekler geliştirmeye odaklanıyoruz.</p>"
+        }
+      ],
+      "why_buy": "Yetersiz teknik kararlar, verimsiz geliştirme süreçleri ve durağan ekip gelişimi; uzman rehberliğine yatırım yapmaktan çok daha pahalıya mal olur. Pahalı deneme yanılma yoluyla öğrenmek yerine, sayısız proje ve organizasyonda doğrulanmış kanıtlanmış stratejiler ve en iyi uygulama pratiklerine anında erişim kazanırsınız. Yaygın tuzaklardan kaçınmanızı, akıllı teknoloji seçimleri yapmanızı ve büyümenizle birlikte ölçeklenebilen sürdürülebilir geliştirme süreçleri kurmanızı sağlayarak, hızlı düzeltmelerin ötesinde çözümler sunuyoruz. Özel zorluklarınızı ve hedeflerinizi anlamak için zaman ayırıyor, öğrenmeyi hızlandırırken maliyetli hataları önleyen uygulamalı rehberlik sunuyoruz. Genel çözümleri kabul etmek yerine, benzersiz hızınıza ve önceliklerinize uyum sağlayan, her tavsiyenin bağlamınıza mükemmel uymasını sağlayan güvenilir bir teknik danışmanla çalışmak için bu hizmeti satın almalısınız.",
+      "info": "İlk adım olarak, ücretsiz bir çevrimiçi ön değerlendirme toplantısı sunuyoruz. Projenizin kapsamına bağlı olarak, danışmanlık hizmetlerimizin saatlik ücreti yaklaşık 35 dolardır.",
+      "open": "true"
+    },
+    {
+      "category": "Danışmanlıklar",
+      "category_url": "consultancies",
+      "name": "Açık Kaynaklı Yapay Zeka Modelleri Entegrasyonu",
+      "price": "$35.00",
+      "url_name": "consultancy-open-source-ai",
+      "full_url": "anatolia.solutions/services/consultancy-open-source-ai.html",
+      "pay_url": "buy.stripe.com/5kA5kLdQY8LrbWoaEH",
+      "images": [
+        "consultancy-open-source-ai.png"
+      ],
+      "keywords": "açık kaynaklı yapay zeka entegrasyonu, yapay zeka modeli kurulumları, iş programları için yapay zeka, yapay zeka uygulama stratejisi",
+      "html_desc": "Yapay zekâ model seçimi, güvenlik değerlendirmesi ve kurulum konularında stratejik rehberlik sağlayarak, iş sistemlerinize açık kaynaklı yapay zekâ modellerini entegre ediyoruz.",
+      "short_desc": "Llama, DeepSeek, Qwen, Gemma, Granite ve GPT-OSS türevleri dahil olmak üzere önde gelen açık kaynak yapay zeka modellerini iş sistemlerine entegre etme konusunda uzmanız. Danışmanlık hizmetimiz; model seçimi, güvenlik değerlendirmesi ve üretim ortamına geçiş konularında rehberlik sunarak, kuruluşların en ileri yapay zeka yeteneklerinden yararlanmasını sağlar.",
+      "detail_desc": [
+        {
+          "title": "Danışmanlık Hakkında",
+          "content_html": "<p>Açık kaynak AI modellerinin hızlı büyümesi organizasyonlara yenilik için güçlü fırsatlar sunuyor, ancak bu modelleri seçmek, entegre etmek ve optimize etmek maliyetli hatalar ve güvenlik risklerinden kaçınmak için dikkatli uzmanlık gerektirir.</p><p>Danışmanlığımız, en yüksek güvenlik, uyumluluk ve performans standartlarını korurken iş hedefleriyle uyumlu stratejik entegrasyon yoluyla işletmelerin açık kaynak AI'ın tam potansiyelini ortaya çıkarmasına yardımcı olur. Sürecimiz altyapınızın, veri hatlarınızın ve teknik yeteneklerinizin kapsamlı değerlendirmesini içererek mevcut sistemlere sorunsuz entegrasyon sağlar.</p><p>Llama, DeepSeek, Qwen, Gemma, Granite veya GPT-OSS varyantları ile çalışmak istiyorsanız, açık kaynak AI'ı deneysel teknolojiden üretime hazır iş çözümlerine dönüştürmek için gereken stratejik rehberlik ve teknik uzmanlığı sağlıyoruz.</p>"
+        }
+      ],
+      "why_buy": "Açık kaynak AI modellerini yanlış seçmek veya hatalı entegre etmek finansal kayıplara ve ciddi güvenlik açıklarına yol açabilir. Bizim uzmanlığımızdan faydalanmanız  maliyetli hatalardan kaçınmanızı sağlar. Deneyimli ekibimiz sayesinde AI projeleriniz deneysel aşamadan geçerek gerçek iş değeri üreten, güvenli ve ölçeklenebilir çözümlere dönüşür.",
+      "info": "İlk adım olarak, ücretsiz bir çevrimiçi ön değerlendirme toplantısı sunuyoruz. Projenizin kapsamına bağlı olarak, danışmanlık hizmetlerimizin saatlik ücreti yaklaşık 35 dolardır."
+    },
+    {
+      "category": "Danışmanlıklar",
+      "category_url": "consultancies",
+      "name": "Eski Yazılım Sistemlerinin Bağımlılıklarından Arındırılarak Yeniden Geliştirilmesi",
+      "price": "$35.00",
+      "url_name": "consultancy-software-refactoring",
+      "full_url": "anatolia.solutions/services/consultancy-software-refactoring.html",
+      "pay_url": "buy.stripe.com/5kA5kLdQY8LrbWoaEH",
+      "images": [
+        "consultancy-software-refactoring.png"
+      ],
+      "keywords": "eski yazılım modernizasyonu, yazılım yeniden düzenleme, bağımlılık yönetimi, sistem modernizasyonu, eski kod dönüşümü",
+      "html_desc": "Eski yazılım sistemlerinizde, bağımlılıkları stratejik olarak kaldırıp yeniden yapılandırma (refactoring) ile daha modern ve verimli çözümlerle performansı, güvenliği ve sürdürülebilirliği artırın.",
+      "short_desc": "Eski yazılım sistemlerini modernleştirme konusunda uzmanız. Gereksiz bağımlılıkları stratejik olarak ortadan kaldırıyor ve güncelliğini yitirmiş kodları verimli, sürdürülebilir çözümlere dönüştürüyoruz. Danışmanlık hizmetimiz, sistematik yeniden yapılandırma, bağımlılık temizliği ve mimari iyileştirmeler aracılığıyla işletmelerin eski uygulamaların sınırlamalarını aşmasına yardımcı olur. Böylece performansı, güvenliği ve ölçeklenebilirliği artırırken modern teknoloji yığınlarıyla uyumluluğu da garanti altına alırız.",
+      "detail_desc": [
+        {
+          "title": "Danışmanlık Hakkında",
+          "content_html": "<p>Günümüzün hızla değişen teknoloji ortamında, güncel olmayan yazılımlar sıklıkla büyümeyi, ölçeklenebilirliği ve güvenliği sınırlar. Danışmanlığımız eski uygulamaları modern, verimli ve güvenli sistemlere dönüştürme konusunda uzmanlaşmıştır.</p><p>Yazılım mimarinizi analiz ederek maliyetleri artıran ve yeniliği yavaşlatan darboğazları, gereksiz bağımlılıkları ve teknik yükleri belirliyoruz. Yaklaşımımız sistemleri bakımı yapılabilir, ölçeklenebilir ve modern geliştirme uygulamalarıyla uyumlu olacak şekilde yeniden yapılandırır.</p><p>Her modernizasyon stratejisi iş hedeflerinize ve teknik ortamınıza göre uyarlanır. Aşamalar; bağımlılıkları azaltma, ileri teknolojileri entegre etme veya çağdaş platformlarla uyumluluğu sağlamayı içerebilir. Sonuçta gelişmiş işlevsellik, azaltılmış uzun vadeli riskler ve düşük bakım maliyetli bir sisteminiz olur.</p>"
+        }
+      ],
+      "why_buy": "Eski sistemler kaynak tüketen, yeniliği kısıtlayan ve işinizi güvenlik risklerine maruz bırakan pahalı yüklerdir. Özelleşmiş bağımlılık arındırma ve sistem yeniden yapılandırma yaklaşımımız bu yükleri rekabet avantajlarına dönüştürür, yazılımınızı daha hızlı, güvenilir ve bakımı kolay hale getirir. Yavaş dağıtımlar, tekrarlayan hatalar ve entegrasyon sorunlarıyla uğraşmak yerine, ekibinizin yenilik yapmasını ve pazar taleplerine hızla yanıt vermesini sağlayan akıcı sistemlere sahip olursunuz.",
+      "info": "İlk adım olarak, ücretsiz bir çevrimiçi ön değerlendirme toplantısı sunuyoruz. Projenizin kapsamına bağlı olarak, danışmanlık hizmetlerimizin saatlik ücreti yaklaşık 35 dolardır."
+    },
+    {
+      "category": "Danışmanlıklar",
+      "category_url": "consultancies",
+      "name": "Windows'dan Linux'a Geçiş Planlaması",
+      "price": "$35.00",
+      "url_name": "consultancy-move-to-linux",
+      "full_url": "anatolia.solutions/services/consultancy-move-to-linux.html",
+      "pay_url": "buy.stripe.com/5kA5kLdQY8LrbWoaEH",
+      "images": [
+        "consultancy-move-to-linux.png"
+      ],
+      "keywords": "windows'tan linux'a geçiş desteği, linux geçiş hizmetleri, linux danışmanlığı, linux altyapı optimizasyonu, kurumsal linux geçiş stratejisi",
+      "html_desc": "Windows tabanlı geliştirme ekiplerine, iş akışlarını korurken, maliyet tasarrufu ve performans avantajları sunarak, minimum kesintiyle Linux ortamlarına geçiş için uzman rehberlik sunuyoruz.",
+      "short_desc": "Windows tabanlı geliştirme ekiplerinin, minimum kesinti ve maksimum verimlilikle Linux ortamlarına sorunsuz geçiş yapmalarına yardımcı oluyoruz. Kapsamlı geçiş stratejilerimiz, mevcut iş akışlarını korurken Linux’un maliyet avantajları ve performans faydalarını ortaya çıkarır. Ayrıca, geliştirme araçları, bulut entegrasyonu ve ekibinizin özel ihtiyaçlarına uygun çapraz platform uygulamaları konusunda uzman rehberlik sunuyoruz.",
+      "detail_desc": [
+        {
+          "title": "Danışmanlık Hakkında",
+          "content_html": "<p>Windows tabanlı geliştirme ekiplerinin minimum kesinti ve minimum maliyetle Linux'a sorunsuz geçiş yapmasına yardımcı oluyor ve verimlilik ile performansta ölçülebilir kazanımlar sunuyoruz.</p><p>Uçtan uca yaklaşımımız planlama, araç konfigürasyonu, altyapı optimizasyonu ve ekip eğitimini içeren geçiş sürecinin her aşamasını kapsar. Geliştirme ortamlarının konfigürasyonu, akıcı iş akışlarının kurulması ve Linux'un tam esneklik ve gücünden yararlanan altyapı oluşturma konularında uzman destek sağlıyoruz.</p><p>Her migrasyon stratejisi ekibinizin ihtiyaçlarına göre uyarlanır. Tanıdık iş akışlarını korurken Linux ortamlarının sunduğu maliyet tasarrufu, ölçeklenebilirlik ve performans avantajlarının kilidini açıyoruz.</p>"
+        }
+      ],
+      "why_buy": "Windows ya da Apple lisans maliyetleri bütçenizi zorlarken Linux'un performans ve esneklik avantajlarından mahrum kalıyorsunuz. Geçiş sürecimiz platform değişikliğini basitleştirir ve iş akışınızı kesintiye uğratmadan gerçekleştirir. Deneme yanılma yöntemleri yerine test edilmiş geçiş planımızla hem lisans maliyetlerinden tasarruf eder hem de ekibinizin daha verimli araçlarla çalışmasını sağlarsınız. Sonuç olarak daha az maliyet, daha iyi performans ve gelişmiş sistem kontrolü elde edersiniz.",
+      "info": "İlk adım olarak, ücretsiz bir çevrimiçi ön değerlendirme toplantısı sunuyoruz. Projenizin kapsamına bağlı olarak, danışmanlık hizmetlerimizin saatlik ücreti yaklaşık 35 dolardır."
+    },
+    {
+      "category": "Danışmanlıklar",
+      "category_url": "consultancies",
+      "name": "İş Akışınıza Özel İşletim Sistemi Oluşturma",
+      "price": "$35.00",
+      "url_name": "consultancy-custom-operating-system",
+      "full_url": "anatolia.solutions/services/consultancy-custom-operating-system.html",
+      "pay_url": "buy.stripe.com/5kA5kLdQY8LrbWoaEH",
+      "images": [
+        "consultancy-custom-operating-system.png"
+      ],
+      "keywords": "özel işletim sistemi geliştirme, kurumsal işletim sistemi çözümleri, linux özelleştirmesi, program iş akışı optimizasyonu",
+      "html_desc": "İş akışlarınıza özel olarak tasarlanmış, profesyonel özel işletim sistemi geliştirme hizmeti sunuyoruz.",
+      "short_desc": "Kurumsal iş akışlarınızı kolaylaştırmak için özel bilgi işlem ortamlarıyla tasarlanmış, kanıtlanmış açık kaynak temeller üzerine inşa edilen özel işletim sistemleri geliştiriyoruz. Çözümlerimiz, çekirdek düzeyinde optimizasyonlardan kullanıcı alanı özelleştirmelerine kadar uzanır; iş süreçlerinizle mükemmel uyum sağlayan, yalın ve güvenli sistemler sunarak tam operasyonel kontrol ve sorunsuz altyapı entegrasyonu sağlar.",
+      "detail_desc": [
+        {
+          "title": "Danışmanlık Hakkında",
+          "content_html": "<p>Danışmanlığımız, iş akışlarınızla sorunsuz uyum sağlayan özel işletim sistemi çözümlerinin tasarımı ve uygulanması konusunda uzmanlaşmıştır. Organizasyonların genel, önceden yapılmış sistemlerin sınırlarını aşarak operasyonları kolaylaştıran ve verimliliği artıran uyarlanmış bilişim ortamları yaratmasına yardımcı oluyoruz.</p><p>Uzmanlığımız, donanım kullanımını maksimuma çıkaran çekirdek seviyesi optimizasyonlardan günlük iş akışlarını basitleştiren kullanıcı alanı geliştirmelerine kadar özel işletim sistemi geliştirmesinin tam spektrumunu kapsar. Kanıtlanmış açık kaynak temeller üzerine inşa edilmiş yalın, verimli uygulamalara odaklanarak sağlam güvenlik, güvenilir performans ve mevcut altyapınızla zahmetsiz entegrasyon sağlıyoruz.</p><p>İş gereksinimlerini uyumlu ve güçlü işletim sistemlerine dönüştüren eksiksiz çözümler sunuyoruz. Özel donanım için yapılmış gömülü platformlardan müşteri etkileşimlerini destekleyen kiosk ortamlarına ve sektöre özgü süreçler için optimize edilmiş kurumsal iş istasyonlarına kadar, organizasyonunuzun ihtiyaçlarına tam olarak uygun çalışan sistemler geliştiriyoruz.</p>"
+        }
+      ],
+      "why_buy": "Genel amaçlı işletim sistemleri işinizi kendi sınırlarına uyum sağlamaya zorlar, hiç kullanmadığınız özellikler için kaynak harcarken iş akışlarınızın gerektirdiği özgül yeteneklerden yoksun kalırsınız. Özel işletim sistemi geliştirme hizmetimiz bu kısıtlamaları ortadan kaldırarak işinizin tam olarak ihtiyaç duyduğu şekilde çalışan bilişim ortamları yaratır. Geçici çözümler, uyumluluk sorunları ve genel sistemlerin dayattığı performans darboğazlarıyla uğraşmak yerine, sektörünüz ve iş akışlarınız için özel olarak tasarlanmış optimizasyonlarla bilişim ortamınız üzerinde tam kontrol kazanırsınız.",
+      "info": "İlk adım olarak, ücretsiz bir çevrimiçi ön değerlendirme toplantısı sunuyoruz. Projenizin kapsamına bağlı olarak, danışmanlık hizmetlerimizin saatlik ücreti yaklaşık 35 dolardır."
+    },
+    {
+      "category": "Danışmanlıklar",
+      "category_url": "consultancies",
+      "name": "Tedarikçi Bağımlılığının Değerlendirilmesi",
+      "price": "$35.00",
+      "url_name": "consultancy-vendor-evaluation",
+      "full_url": "anatolia.solutions/services/consultancy-vendor-evaluation.html",
+      "pay_url": "buy.stripe.com/5kA5kLdQY8LrbWoaEH",
+      "images": [
+        "consultancy-vendor-evaluation.png"
+      ],
+      "keywords": "tedarikçi risk değerlendirmesi, tedarik zinciri güvenliği, üçüncü taraf değerlendirmesi, bağımlılık analizi, rekabetçi tehdit değerlendirmesi",
+      "html_desc": "Tüm iş operasyonlarındaki tedarikçi ekosisteminizin kapsamlı bir şekilde analizi ve risk değerlendirmesi sonucu, dayanıklılığı etkileyebilecek gizli entegrasyon noktalarını, bağımlılıkları ve güvenlik açıklarını belirliyoruz.",
+      "short_desc": "Yazılım tedarik zincirinizdeki gizli riskleri, kapsamlı tedarikçi değerlendirmesi ve bağımlılık analizi yoluyla tespit edip azaltma konusunda uzmanız. Danışmanlık hizmetimiz, üçüncü taraf kaynaklı güvenlik açıklarına, rekabet tehditlerine ve tedarik zinciri kesintilerine karşı dayanıklı stratejiler geliştirmenize yardımcı olur. Stratejik çeşitlendirme ve acil durum planlaması sayesinde iş sürekliliğinizi ve güvenliğinizi garanti altına alırız.",
+      "detail_desc": [
+        {
+          "title": "Danışmanlık Hakkında",
+          "content_html": "<p>En güvenilir tedarikçiler bile tedarik zincirinizin direncini tehdit eden ve organizasyonunuzu öngörülemeyen risklere maruz bırakan gizli bağımlılıklar yaratabilir. Danışmanlığımız, hem yazılım hem de yazılım dışı alanlarda tedarikçi ilişkileri, entegrasyonlar ve bağımlılıkların kapsamlı değerlendirmeleri yoluyla bu açıkları ortaya çıkarma ve azaltma konusunda uzmanlaşmıştır.</p><p>Operasyonları bozabilecek veya fikri mülkiyeti tehlikeye atabilecek kritik başarısızlık noktalarını, güvenlik boşluklarını ve rekabet baskılarını analiz ediyoruz. Yaklaşımımız yazılım ekosistemlerinin ötesine geçerek üçüncü taraf hizmetleri, sözleşmeli yükümlülükleri ve süreç bağımlılıklarını da kapsayarak tedarikçi bağımlılığının var olduğu her yerde risklerin belirlenmesini sağlar.</p><p>Potansiyel sabotaj senaryolarını, rekabet tehditlerini ve sistemik zayıflıkları değerlendirerek organizasyonların direnci güçlendiren ve iş sürekliliğini koruyan sağlam stratejiler tasarlamasına yardımcı oluyoruz. Çözümlerimiz sektörünüz ve pazar konumunuza göre uyarlanmış stratejik çeşitlendirme, acil durum planlaması ve direnç mühendisliği uygulamalarını içerir.</p>"
+        }
+      ],
+      "why_buy": "Gizli tedarikçi bağımlılıkları ve tedarik zinciri açıkları, iş operasyonlarınızı anında felç edebilecek, hassas verileri açığa çıkarabilecek veya rekabet avantajlarınızı rakiplerinize verebilecek gizli tehditlerdir. Özelleşmiş değerlendirme sürecimiz, tedarikçi ilişkilerinizde ve bağımlılık zincirlerinizdeki görünmez tehditleri pahalı felaketlere dönüşmeden önce ortaya çıkarır. Kriz anında kritik açıkları keşfetmek yerine, dış kesintilerden bağımsız olarak operasyonları sürdürmek için öngörü ve hazır stratejiler kazanırsınız.",
+      "info": "İlk adım olarak, ücretsiz bir çevrimiçi ön değerlendirme toplantısı sunuyoruz. Projenizin kapsamına bağlı olarak, danışmanlık hizmetlerimizin saatlik ücreti yaklaşık 35 dolardır."
+    }
+  ]
+}

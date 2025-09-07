@@ -1,0 +1,263 @@
+* {
+    background: #282828;
+    color: #eee;
+    font-family: sans;
+    font-size: 15px;
+    line-height: 21px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+a {
+    color: #d2292d;
+}
+
+a:visited {
+    color: #d2292d;
+}
+
+h1,
+h2,
+h3 {
+    color: #1761b0;
+}
+
+h1 {
+    font-size: 32px;
+    margin-left: 19px;
+    color: #f43737;
+    background: #181818;
+}
+
+h2 {
+    font-size: 34px;
+    line-height: 42px;
+    padding-bottom: 15px;
+    margin-top: 8px;
+}
+
+h3 {
+    font-size: 21px;
+    line-height: 25px;
+    padding-bottom: 8px;
+    padding-top: 13px;
+}
+
+p {
+    padding-top: 5px;
+    padding-bottom: 8px;
+}
+
+img {
+    border-radius: 8px;
+    box-shadow: 0 5px 15px #000000b3;
+}
+
+header,
+footer {
+    background: #181818;
+    padding: 21px;
+    width: 100%;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0px 2px 5px #000000b3;
+    padding-bottom: 15px;
+}
+
+header a {
+    background: #181818;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-decoration: none;
+    width: fit-content;
+}
+
+header img {
+    background: #181818;
+    box-shadow: none;
+    width: 35px;
+    height: 35px;
+    margin-left: 5px;
+}
+
+main {
+    width: 800px;
+    padding: 21px;
+}
+
+span a,
+span a:visited,
+summary a,
+summary a:visited {
+    color: #aaa;
+    letter-spacing: 1px;
+}
+
+select {
+    background: #282828;
+    color: #eee;
+    border: 1px solid #1761b0;
+    border-radius: 8px;
+    padding: 8px 15px;
+    box-shadow: 0px 2px 5px #000000b3;
+    width: 211px;
+    outline: none;
+    margin-top: 8px;
+    position: relative;
+    cursor: pointer;
+}
+
+select:focus {
+    border-color: #f43737;
+}
+
+address {
+    margin-top: 13px;
+    margin-bottom: 13px;
+    background: #181818;
+}
+
+footer a {
+    background: #181818;
+    text-decoration: none;
+}
+
+address a,
+address a:visited,
+details details details a,
+details details details a:visited {
+    color: #1761b0;
+}
+
+div,
+div h3,
+div p {
+    background: #1761b0;
+}
+
+div h3 {
+    color: #0d3580;
+}
+
+div {
+    padding: 34px;
+    margin-block: 21px;
+    margin-left: -34px;
+    border-radius: 8px;
+}
+
+
+section,
+section em,
+section a {
+    background: #d2292d;
+    color: #eee;
+    display: block;
+}
+
+section a,
+div a {
+    margin-top: 5px;
+    font-size: 17px;
+    color: #eee;
+    background-color: inherit;
+    display: block;
+}
+
+section a:visited,
+div a:visited {
+    color: #eee;
+}
+
+section {
+    padding: 34px;
+    margin-block: 21px;
+    margin-left: -34px;
+    border-radius: 8px;
+}
+
+ul {
+    margin-left: 19px;
+}
+
+li {
+    padding-block: 5px;
+    list-style-type: square;
+}
+
+li em {
+    font-weight: bold;
+}
+
+.other-image {
+    width: 198px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px #000000b3;
+    margin-right: 8px;
+    margin-top: 5px;
+    margin-bottom: 13px;
+}
+
+strong {
+    font-size: 22px;
+    display: block;
+    margin-top: 13px;
+    margin-bottom: 5px;
+}
+
+summary {
+    padding-left: 3px;
+    padding-bottom: 8px;
+    cursor: pointer;
+    font-size: 17px;
+    color: #aaa;
+}
+
+details {
+    padding: 8px 13px;
+    width: fit-content;
+}
+
+details p {
+    padding-left: 19px;
+    font-size: 15px;
+}
+
+details img {
+    width: 333px;
+    margin: 5px 19px;
+}
+
+summary::marker {
+    font-size: 21px;
+}
+
+
+.post-image {
+    width: 700px;
+    margin-top: 5px;
+    margin-bottom: 13px;
+}
+
+.pay {
+    clear: both;
+    display: block;
+    margin-bottom: 13px;
+}
+
+@media (max-width: 500px) {
+    main {
+        width: 100%;
+    }
+
+    img:not(header img) {
+        display: none;
+    }
+}

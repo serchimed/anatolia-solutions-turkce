@@ -1,0 +1,22 @@
+{
+    "name": "Anatolia Solutions LLC",
+    "slogan": "Programların gizli yüzüne ışık tutmak için ilerliyoruz",
+    "vision": "Programlama, otomasyon ve sistem geliştirme alanındaki uzmanlığımızla; güvenilir teknik altyapıları sağlam etik değerlerle buluşturarak yenilikçi ürün ve hizmetler tasarlıyoruz. Amacımız, toplumsal ilerleme ve bireysel özgürlük için gerekli araçları geliştirerek, küresel konforu ve yaşam kalitesini artırmaya çalışan insanlara yardım etmektir. Kurumlara olan güvenin zayıfladığı çağımızda, toplumların ortak değerler etrafında tekrar birleşerek, olgunlaşarak ve yardımlaşmayla varlığını sürdürebileceğine inanıyoruz. Bu vizyonu gerçeğe dönüştürecek teknolojik omurgayı inşa etmeye kararlıyız.",
+    "email": "serdar@anatolia.solutions",
+    "address": {
+        "TR": {
+            "phone": "+90 551 492 29 25",
+            "lines": [
+                "Yapracik, Etimesgut",
+                "Ankara 06815, Türkiye"
+            ]
+        },
+        "EN": {
+            "phone": "+1 307 288 24 45",
+            "lines": [
+                "525 Randall Ave Ste 100 #543, Cheyenne",
+                "Wyoming 82001, United States"
+            ]
+        }
+    }
+}

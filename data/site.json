@@ -1,0 +1,39 @@
+{
+  "url": "turkce.anatolia.solutions",
+  "lang_urls": {
+    "EN": "anatolia.solutions",
+    "TR": "turkce.anatolia.solutions"
+  },
+  "read_text":"Visit thoughts page to delve into our evolving perspectives.",
+  "read_link_text":"Read Our Thoughts",
+  "meet_text": "Daha fazla bilgi için ücretsiz ön bilgilendirme toplantısı planlayabilirsiniz",
+  "meet_text_discuss": "Bu konuyu bizimle daha detaylı görüşmek isterseniz ücretsiz bir toplantı planlayabilirsiniz.",
+  "meet_link": "meet.anatolia.solutions",
+  "meet_link_text": "Ücretsiz Ön Görüşme Randevusu Alın",
+  "common_training_faq": [
+    {
+      "question": "Eğitimin sonunda sertifika verilecek mi?",
+      "answer": "<p>Hayır, eğitimin sonunda sertifika vermiyoruz çünkü sertifika ve diplomaların artık geçerliliğini yitirdiğine inanıyoruz. Ancak katılım belgesine ihtiyacınız olursa, sizin için bir belge hazırlayabiliriz.</p>"
+    },
+    {
+      "question": "Uzaktan eğitimin yanı sıra sınıf ortamında da alabilir miyiz?",
+      "answer": "<p>Evet, yeterli sayıda kişi olduğunda yüz yüze sınıf eğitimi olarak da planlayabiliriz.</p>"
+    },
+    {
+      "question": "Eğitimi tekrar almam mümkün mü?",
+      "answer": "<p>Evet.</p>"
+    }
+  ],
+  "common_faq": [
+    {
+      "question": "Para iade garantisi var mı?",
+      "answer": "<p>Evet.</p>"
+    }
+  ],
+  "products_text": "Ürünler",
+  "services_text": "Servisler",
+  "thoughts_text": "Düşünceler",
+  "questions_text": "Sorular",
+  "why_buy_text": "Neden Satın Almalısınız?",
+  "pay_text": "Kredi Kartı ile Ödeyin"
+}

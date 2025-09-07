@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "category": "Verimlilik Araçları",
+      "category_url": "productivity-tools",
+      "name": "Agile (Çevik) Haftalık Planlama Defteri",
+      "price": "$10.00",
+      "url_name": "agile-planner-notebook",
+      "full_url": "turkce.anatolia.solutions/products/agile-planner-notebook.html",
+      "pay_url": "buy.stripe.com/6oE9B13ck9Pv5y09AH",
+      "keywords": "haftalık planlayıcı, çevik araçlar, scrum araçları, planlayıcı, proje yönetimi araçları, ilerleme izleme araçları",
+      "images": [
+        "agile-planner-notebook.png",
+        "weekly-plan.png",
+        "swot-analysis.png",
+        "business-model-canvas.png"
+      ],
+      "html_desc": "Çevik Haftalık Planlayıcı Defteri, düzenli ve hedef odaklı üretkenlik için güçlü bir araçtır.",
+      "short_desc": "Çevik Haftalık Planlayıcı Not Defteri, dikkat dağıtıcı unsurlardan uzak bir planlamaya ihtiyaç duyan modern profesyoneller ve girişimciler için tasarlanmıştır. Planlama ve stratejiyi mükemmel bir şekilde bir araya getirerek, görevlerinizi takip ederken büyük resmi görmenize yardımcı olur. Kalem ve kağıt formatı, üretkenliğinizi baltalayabilecek dijital bildirimlerden ve kesintilerden uzak, çevrimdışı ve tamamen odaklanmış kalmanızı sağlar.",
+      "detail_desc": [
+        {
+          "title": "Haftalık Plan Düzeni",
+          "content_html": "<ul><li><em>Kapsamlı Günlük Planlama:</em> Her günü puan değeri (P) ve süre (D) değerleri vererek takip edebileceğiniz görev satırları ile planlayın. Gidişat ile ilgili farkındalık için ayrıca ruh hali izlemesi de yapabilirsiniz.</li><li><em>Haftalık İlerleme Değerlendirmesi:</em> Her haftaya önceki haftanın başarılarını değerlendirerek başlayın ve zaman içinde önceki haftaların durumlarını kontrol edin.</li><li><em>Bütünsel Yaşam Planlaması:</em> Profesyonel hedefleri; kişisel gelişim, arkadaşlar ve aile için kaliteli zaman planlaması ile dengeleyin.</li><li><em>Stratejik Problem Çözme:</em> Zorlukları ve potansiyel faydaları da planlamanıza katarsanız engelleri büyüme fırsatlarına dönüştürebilirsiniz.</li></ul>"
+        },
+        {
+          "title": "Defterin İçindeki Stratejik Düşünme Araçları",
+          "content_html": "<ul><li><em>SWOT Analizi Çerçevesi:</em> Güçlü yönleri, zayıflıkları, fırsatları ve tehditleri analiz etmek için tasarlanmış sayfalarla stratejik potansiyelinizi açığa çıkarın.</li><li><em>İş Modeli Tuvali:</em> Değer önerileri, müşteri segmentleri ve gelir akışları dahil temel iş bileşenlerinin net görselleştirilmesine ihtiyaç duyan girişimciler için \"business model canvas\" etkili bir araçtır.</li></ul>"
+        }
+      ],
+      "why_buy": "İster ekip yönetiyor, ister bir startup büyütüyor, isterse iddialı kişisel hedefler peşinde koşuyor olun, haftalık planlayıcı geleneksel planlamanın ötesine geçerek özel üretkenlik ortağınız haline gelir. Hem acil görevlere hem de uzun vadeli stratejilere odaklanmanızı sağlarken, kişisel ilişkilerinizi ve kişisel gelişiminizi beslemenizi hatırlatır. Sadece bir planlama aracından fazlası olarak, tekrar ziyaret edip geliştirebileceğiniz proje fikirleriniz ve stratejik görüşleriniz için somut bir hafıza görevi görür. Hassas iş görüşlerinizi dijital tehditlerden ve veri ihlallerinden koruyan çevrimdışı, fiziksel format ile stratejik planlarınızı güvende tutun ve kötü niyetli gözlerden uzak tutun. Çevik Haftalık Planlayıcı Defteri ile zamanınızın, fikirlerinizin ve yaşam dengenizin tam kontrolünü elinize alın."
+    },
+    {
+      "category": "Çalışma Rehberleri",
+      "category_url": "calisma-rehberleri",
+      "name": "Yapay Zeka ile Konuşmak Çalışma Rehberi",
+      "price": "$10.00",
+      "url_name": "book-yapay-zeka-ile-konusmak",
+      "full_url": "turkce.anatolia.solutions/products/book-yapay-zeka-ile-konusmak.html",
+      "pay_url": "buy.stripe.com/cN2cNdcMU5zf1hKcMQ",
+      "keywords": "yapay zeka prompt yazımı, yapay zeka yönlendirmesi, yapay zeka ile iletişim, yapay zeka çalışma kılavuzu",
+      "images": [
+        "book-yapay-zeka-ile-konusmak.png"
+      ],
+      "html_desc": "Yapay zeka iletişiminde ve komut mühendisliğinde uzmanlaşmanız için tasarlanan, sürekli güncellenen rehber, pratik alıştırmalarla size yol gösterir.",
+      "short_desc": "Yapay zeka çağında geleceğe yönelik bir köprü görevi gören rehber, teknolojinin hayatımızın her alanına nüfuz etmesiyle ortaya çıkan kaçınılmaz değişimlere uyum sağlamanıza yardımcı olmayı hedefliyor. Yapay zeka okuryazarlığınızı güçlendirerek, en güncel gelişmeleri, farklı sektörlerdeki pratik uygulamaları ve iş dünyasına etkilerini anlaşılır bir dille aktarıyor. Aynı zamanda, yapay zeka araçlarını etkin bir şekilde kullanabilmeniz için zengin komut örnekleri sunarak sizi geleceğe hazırlıyor. Böylece, yapay zekanın sunduğu fırsatlardan en iyi şekilde yararlanarak, teknolojik dönüşümün sadece bir tanığı değil, aynı zamanda aktif bir parçası olmanızı amaçlıyor.",
+      "detail_desc": [
+        {
+          "title": "Kitap Hakkında",
+          "content_html": "<p>Yapay zeka ile Konuşmak Çalışma Rehberi, yapay zekayla etkili iletişim kurma zanaatında ustalaşmak isteyenler için bağımsız ve sürekli güncellenen bir kaynaktır. Temel yapay zeka kavramlarından, büyük dil modellerine, etik risklere, gerçek dünya örneklerine ve müzik veya görsel üretim gibi yaratıcı uygulamalara kadar karmaşık konuları net bir dille açıklar.</p><p>Teorik bilgilerin yanı sıra, rehber, komut tasarımı becerilerinizi güçlendirmek için pratik çerçeveler, örnekler ve alıştırmalar sunar. Hem yeni başlayanlar hem de deneyimli kullanıcılar için yapılandırılan rehber, yapay zekayı derinlemesine anlamak ve günlük işlerde veya yaratıcı projelerde etkin kullanmak isteyen herkes için güvenilir bir başvuru kaynağıdır.</p><p>Rehberin ana odak noktalarından biri komut mühendisliğidir. Okuyucular, şu teknikleri keşfedeceklerdir:</p><ul><li>Sıfır Vuruşlu Prompt (Zero-Shot Prompting)</li><li>Az Örnekli Prompt (Few-Shot Prompting)</li><li>Zincirleme Yapıda Prompt (Interactive Prompt Chaining)</li><li>Düşünce Zincirli Prompt (Chain of Thought Prompting)</li><li>Düşünce Ağacı Yapısında Prompt (Tree of Thoughts Prompting)</li><li>Promptu Yeniden Şekillendirme (Prompt Reframing)</li><li>Kendinden Tutarlı Yönlendirmeli Prompt (Self Consistency Prompting)</li><li>Doğrudan Uyarıcı Prompt (Direct Stimulus Prompting)</li><li>Talimat Tabanlı Prompt (Instruction Based Prompting)</li><li>Benzetme Tabanlı Prompt (Analogical Reasoning / Association Prompting)</li><li>Prompt Oluşturan Prompt (Meta Prompting)</li><li>Şablon Tabanlı Prompt (Template Based Prompting)</li><li>Karşılaştırmalı Prompt (Contrastive / Comparison / Contrast Prompting)</li><li>Keşifsel Prompt (Exploratory Prompting)</li><li>Koşullu Prompt (Conditional Prompting)</li><li>Geniş Alan Aktifleştiren Prompt (Latent Space Activation Prompting)</li><li>Rol Yapma Yapısında Prompt (Role Playing / Scenario-Based Prompting)</li></ul><p>Çalışma rehberi, okuyuculara en güncel stratejileri sunarak sürekli olarak yeni teknikler, bilgiler ve örneklerle genişlemektedir. Yeni bölümler talep üzerine alıcılara sağlanır.</p>"
+        }
+      ],
+      "why_buy": "İster yapay zekaya yeni başlayan biri olun ister ileri düzey becerilerinizi geliştirmek isteyin, Yapay zeka ile İletişim Çalışma Rehberi insan ve yapay zeka arasındaki iletişimi ustalıkla kurmanız için vazgeçilmez bir kaynaktır. Karmaşık kavramları anlaşılır açıklamalara dönüştürerek, kullanıma hazır komut şablonları sunar ve pratik alıştırmalarla size rehberlik eder. Hızla gelişen yapay zeka dünyasına ayak uydurmak için sürekli güncellenen rehber, en yeni teknikleri ve en iyi uygulamaları her zaman elinizin altında tutmanızı sağlar. Bir kitaptan çok daha fazlası olan kaynak, yapay zekayı işinizde, yaratıcılıkta ve günlük problem çözme süreçlerinizde güvenle kullanmanıza yardımcı olan yaşayan bir kılavuzdur."
+    },
+    {
+      "category": "Çalışma Rehberleri",
+      "category_url": "calisma-rehberleri",
+      "name": "Yazılım İngilizcesi Çalışma Rehberi ve Tekrar Pratiği Defteri",
+      "price": "$25.00",
+      "url_name": "book-programlama-ingilizcesi",
+      "full_url": "turkce.anatolia.solutions/products/book-programlama-ingilizcesi.html",
+      "pay_url": "buy.stripe.com/bIYbJ97sA5zfgcEbIN",
+      "keywords": "programcı terminolojisi, programlama ingilicesi, yazılım ingilizcesi, yazılım geliştirici sözlüğü",
+      "images": [
+        "book-programlama-ingilizcesi.png"
+      ],
+      "html_desc": "Yazılım projelerinde kullanılan 2.222 temel İngilizce kelimeyi, Türkçe karşılıkları ve gerçek Stack Overflow örnekleriyle öğrenin. Öğrenilenleri pekiştirmek için alıştırma defteri de dahildir.",
+      "short_desc": "Yazılım İngilizcesi Kelime Rehberi ve Alıştırma Defteri, yazılım dünyasında sıkça kullanılan terimlerle İngilizce kelime bilginizi pratik bir şekilde genişletmenizi sağlar. 2.222 kelime, Türkçe çevirileri ve Stack Overflow'dan alınmış gerçek örnek cümleler içeren kaynak, başlangıç ve orta seviye kullanıcıların teknik İngilizcelerini güçlendirmelerine ve gerçek bağlamlarda kendilerine güvenerek kullanmalarına yardımcı olur.",
+      "detail_desc": [
+        {
+          "title": "Kitap Hakkında",
+          "content_html": "<p>Programlama İngilizcesi Kelime Rehberi ve Alıştırma Defteri, programlama endüstrisinde sıkça kullanılan kelime ve ifadelerle İngilizce kelime dağarcığınızı genişletmenize yardımcı olmak üzere tasarlanmıştır. Rehber, özenle seçilmiş 2.222 kelime içerir ve her biri, Türkçe çevirisi ile gerçek programlama bağlamlarından alınmış örnek cümlelerle birlikte sunulur. Öğrenimi kalıcı hale getirmek için, alıştırma defteri çalıştığınız kelimeleri pekiştirmenize ve gözden geçirmenize olanak tanır.</p><p>Özel derleme aynı zamanda, programlama dünyasının en büyük bilgi paylaşım platformlarından biri olan Stack Overflow'dan alınmış örnekler de sunar. Kelime ve ifadelerin birçoğu teknik tartışmalarda yaygın olarak karşımıza çıkar ancak geleneksel dil kaynaklarında genellikle göz ardı edilir. Otantik örnekler ve net çeviriler sayesinde rehber, başlangıç ve orta seviye öğrenicilerin profesyonel programlama ortamlarında İngilizceyi anlamalarını ve güvenle kullanmalarını kolaylaştırır.</p>"
+        }
+      ],
+      "why_buy": "İster uluslararası ekip arkadaşlarınızla iletişim kurun, ister uzaktan çalışma fırsatlarına hazırlanın, ister sadece teknik İngilizcenizi güçlendirmek isteyin; Yazılım İngilizcesi Kelime Rehberi size ihtiyacınız olan kelime dağarcığını sunar. 2.222 terim, Türkçe çevirileri ve Stack Overflow'dan alınmış bağlam açısından zengin örneklerle, İngilizce öğrenimini pratik iletişim becerilerine dönüştürmek için güçlü bir kaynaktır. Kelimeleri doğrudan gerçek Stack Overflow örneklerinden öğrenerek, sadece İngilizcenizi geliştirmekle kalmayacak, aynı zamanda terimlerin gerçek teknik konuşmalarda nasıl kullanıldığını da göreceksiniz."
+    },
+    {
+      "category": "Çalışma Rehberleri",
+      "category_url": "calisma-rehberleri",
+      "name": "Tarihe Geçen Programatik Hatalar Çalışma Rehberi",
+      "price": "$10.00",
+      "url_name": "book-tarihe-gecen-programatik-hatalar",
+      "full_url": "turkce.anatolia.solutions/products/book-tarihe-gecen-programatik-hatalar.html",
+      "pay_url": "buy.stripe.com/aFa4gA3NE4SDdAj452cQU0b",
+      "keywords": "meşhur programlama hataları, tarihi önemde yazılım hataları, geçmiş teknik hatalardan alınan programlama dersleri",
+      "images": [
+        "book-tarihe-gecen-programatik-hatalar.png"
+      ],
+      "html_desc": "Tarihteki Meşhur Programlama Hataları Çalışma Rehberi ile yazılım dünyasının kötü şöhretli hatalarını ve güvenlik açıklarını keşfedin; yazılım güvenilirliğini artırmaya ve pahalıya mal olabilecek hataları önlemeye yardımcı olacak pratik dersler edinin.",
+      "short_desc": "Tarihteki Meşhur Programlama Hataları Çalışma Rehberi, ünlü yazılım hataları ve güvenlik açıklarını ele alıyor; küçük yanlışların nasıl büyük kesintilere, veri sızıntılarına ve mali kayıplara yol açtığını gösteriyor. Açık ve anlaşılır açıklamalarıyla, çıkarılan dersler sayesinde okurların eleştirel düşünme becerilerini geliştirmelerine ve yazılım güvenilirliğini daha iyi kavramalarına yardımcı oluyor.",
+      "detail_desc": [
+        {
+          "title": "Kitap Hakkında",
+          "content_html": "<p>Tarihteki Meşhur Programlama Hataları Çalışma Rehberi, gerçek dünyadaki yazılım hatalarının, güvenlik açıklarının ve programlama yanlışlarının nasıl büyük ölçekli olaylara yol açtığını inceliyor. Yanlış yapılandırmalar ve güvensiz güncellemelerden zayıf kimlik doğrulamaya ve gözden kaçan açıkların yol açtığı sorunlara kadar, küçük dikkatsizliklerin nasıl kesintilere, veri sızıntılarına ve milyonları etkileyen mali kayıplara dönüştüğünü gözler önüne seriyor. Vakalar, modern sistemlerin birbirine ne kadar bağlı olduğunu ve tek bir noktadaki kusurun tüm organizasyona nasıl yayılabileceğini ortaya koyuyor.</p><p>Teknik ayrıntıların ötesinde, rehber güvenlik odaklı bir bakış açısı geliştirmenin önemini vurguluyor. Her vaka çalışması, yalnızca nelerin yanlış gittiğini değil, aynı zamanda olay sonrası toparlanma sürecini de açıklıyor. Hikâye anlatımı ile pratik dersleri birleştiren yaklaşım sayesinde, kötü şöhretli hatalar gelecekteki yanlışları önlemeye yönelik değerli içgörülere dönüşüyor.</p><p>Hem teknik hem de teknik olmayan okuyucular için tasarlanan kaynak, karmaşık olayları anlaşılır ve ilgi çekici hale getiriyor. Okuma sonunda riskleri daha erken fark etmeye, yazılım güvenilirliğine dair bilginizi güçlendirmeye ve işinizde ya da kurumunuzda daha dayanıklı uygulamalara katkıda bulunmaya hazır hale geleceksiniz.</p>"
+        }
+      ],
+      "why_buy": "Tarihteki Meşhur Programlama Hataları Çalışma Rehberi, yazılım dünyasının en bilinen arızalarını yalnızca sıralamakla kalmaz; arka plandaki nedenleri açığa çıkarır ve farklı şekillerde nasıl önlenebileceğini gösterir. Gerçek dünya örneklerini inceleyerek eleştirel düşünme becerilerinizi geliştirebilir, yazılım güvenilirliğini daha iyi anlayabilir ve kendi projelerinizde pahalıya mal olabilecek hatalardan kaçınmanıza yardımcı olacak içgörüler kazanabilirsiniz."
+    }
+  ]
+}
