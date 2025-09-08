@@ -2,7 +2,7 @@
     background: #282828;
     color: #eee;
     font-family: sans;
-    font-size: 15px;
+    font-size: 16px;
     line-height: 21px;
     box-sizing: border-box;
     margin: 0;
@@ -227,7 +227,6 @@ details {
 
 details p {
     padding-left: 19px;
-    font-size: 15px;
 }
 
 details img {
