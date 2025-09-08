@@ -1,1 +1,1 @@
-# anatolia solutions turkçe site
+# anatolia solutions türkçe site
