@@ -409,7 +409,7 @@ details details summary {
     }
 
     img:not(header img) {
-        max-width: 100%;
+        max-width: 90%;
         height: auto;
     }
 
@@ -423,8 +423,7 @@ details details summary {
     }
 
     details img {
-        width: 100%;
-        max-width: 333px;
+        margin-left: 21px;
     }
 
     select {
