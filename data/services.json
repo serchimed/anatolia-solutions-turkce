@@ -354,6 +354,42 @@
       ],
       "why_buy": "Gizli tedarikçi bağımlılıkları ve tedarik zinciri açıkları, iş operasyonlarınızı anında felç edebilecek, hassas verileri açığa çıkarabilecek veya rekabet avantajlarınızı rakiplerinize verebilecek gizli tehditlerdir. Özelleşmiş değerlendirme sürecimiz, tedarikçi ilişkilerinizde ve bağımlılık zincirlerinizdeki görünmez tehditleri pahalı felaketlere dönüşmeden önce ortaya çıkarır. Kriz anında kritik açıkları keşfetmek yerine, dış kesintilerden bağımsız olarak operasyonları sürdürmek için öngörü ve hazır stratejiler kazanırsınız.",
       "info": "İlk adım olarak, ücretsiz bir çevrimiçi ön değerlendirme toplantısı sunuyoruz. Projenizin kapsamına bağlı olarak, danışmanlık hizmetlerimizin saatlik ücreti yaklaşık 35 dolardır."
+    },
+    {
+      "category": "Eğitimler",
+      "category_url": "egitimler",
+      "name": "Kritik Roldeki Teknik Uzmanlar için Sosyal Mühendislikten Korunma Eğitimi",
+      "price": "$250.00",
+      "url_name": "egitim-sosyal-muhendislikten-korunma",
+      "full_url": "anatolia.solutions/services/egitim-sosyal-muhendislikten-korunma.html",
+      "pay_url": "buy.stripe.com/aFa5kEbg6fxhcwfdFCcQU0c",
+      "images": [
+        "training-social-engineering-defense.png"
+      ],
+      "keywords": "sosyal mühendislikten korunma, kişisel güvenlik farkındalığı, hedefli manipülasyon taktiklerinden korunma, profesyonel sabotaj önleme, kritik projelerde güvenlik, iş ve yaşam güvenliği dengesi",
+      "html_desc": "Teknik uzmanları hedef alan sosyal mühendislik saldırılarını tanımayı ve bunlara karşı korunmayı öğrenin. Kişisel yaşamın sömürülmesi yoluyla üretkenliği düşürmeyi veya kritik projeleri riske atmayı amaçlayan manipülasyon tekniklerini anlayın.",
+      "short_desc": "Hedefli sosyal mühendislik ve manipülasyon taktiklerine karşı kendinizi koruyun. Kişisel ilişkiler, sosyal etkileşimler ve günlük yaşam üzerinden iş performansınızı zayıflatmayı veya projelerinizi sabote etmeyi amaçlayan girişimleri nasıl tanıyacağınızı öğrenin.",
+      "detail_desc": [
+        {
+          "title": "Eğitim Hakkında",
+          "content_html": "<p>Eğitim, teknik uzmanların yalnızca iş ortamında değil, kişisel yaşamlarında da maruz kalabilecekleri sosyal mühendislik saldırılarını tanımalarını ve bunlara karşı etkili şekilde korunmalarını sağlar. Saldırganların ilişkiler, sosyal çevre, aile bağları veya gündelik etkileşimler üzerinden üretkenliği manipüle etme, bilgi sızdırma ya da projeleri sabote etme yöntemlerini öğrenir ve daha dikkatli olabilirsiniz.</p><p>Katılımcılar; mühendisler ve teknik profesyonellerin dostane ilişkiler, aile baskısı, romantik bağlantılar veya topluluk etkileşimleri aracılığıyla nasıl hedef alındığına dair gerçek vaka örneklerini inceler. Hedefli manipülasyonun psikolojisini anlayarak, güvenlik farkındalığını paranoyaya kapılmadan, sağlıklı sınırlar ve dengeli ilişkiler içinde sürdürmeyi öğrenirsiniz.</p><p>Eğitim, ekip dinamikleri ve güvenlik olay analizlerinden alınan dersleri birleştirerek, kişisel zafiyetlerin profesyonel risklerle nasıl bağlantılı olduğunu gösterir. Uyarı işaretlerini tanımayı, kişisel sınırlar koymayı ve hem güvenliği hem de sağlıklı bir iş-yaşam dengesini korumayı öğrenirsiniz.</p>"
+        }
+      ],
+      "questions": [
+        {
+          "question": "Bu eğitim kimler için uygundur?",
+          "answer": "<p>Bu eğitim; yazılım mühendisleri, teknik liderler, güvenlik uzmanları ve kişisel yaşamları üzerinden sosyal mühendislik saldırılarına hedef olabilecek, kritik veya hassas projelerde çalışan herkes için uygundur.</p>"
+        },
+        {
+          "question": "Eğitim ne kadar sürüyor?",
+          "answer": "<p>Eğitim genellikle 4 saat sürer, ancak isteğe bağlı olarak süre ihtiyaca göre uyarlanabilir.</p>"
+        },
+        {
+          "question": "Eğitime katılmak için ön koşul var mı?",
+          "answer": "<p>Herhangi bir ön koşul bulunmamaktadır. Eğitim tüm bilgi seviyeleri için uygundur.</p>"
+        }
+      ],
+      "why_buy": "Teknik uzmanlığınız sizi hedef haline getirebilir. Saldırganlar her zaman sistemleri doğrudan aşamayacaklarını bildiği için kişisel ilişkiler ve sosyal manipülasyon yöntemleriyle insan faktörünü kullanabilirler. Eğitim, size ve ailenize zarar verebilecek durumları fark etmenizi ve güvenliğinizi arttırmanızı sağlar."
     }
   ]
 }

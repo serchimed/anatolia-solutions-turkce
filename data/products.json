@@ -15,19 +15,19 @@
         "swot-analysis.png",
         "business-model-canvas.png"
       ],
-      "html_desc": "Çevik Haftalık Planlayıcı Defteri, düzenli ve hedef odaklı üretkenlik için güçlü bir araçtır.",
+      "html_desc": "Çevik Haftalık Planlayıcı, dikkat dağınıklığını azaltmak isteyen profesyonel ve girişimciler için tasarlandı. Görev takibini ve stratejik düşünmeyi bir araya getirerek, hem günlük hedeflerinizi hem de uzun vadeli planlarınızı netleştirir. Dijital kesintilerden uzak, tamamen odaklanmış kalmanızı sağlar.",
       "short_desc": "Çevik Haftalık Planlayıcı Not Defteri, dikkat dağıtıcı unsurlardan uzak bir planlamaya ihtiyaç duyan modern profesyoneller ve girişimciler için tasarlanmıştır. Planlama ve stratejiyi mükemmel bir şekilde bir araya getirerek, görevlerinizi takip ederken büyük resmi görmenize yardımcı olur. Kalem ve kağıt formatı, üretkenliğinizi baltalayabilecek dijital bildirimlerden ve kesintilerden uzak, çevrimdışı ve tamamen odaklanmış kalmanızı sağlar.",
       "detail_desc": [
         {
           "title": "Haftalık Plan Düzeni",
-          "content_html": "<ul><li><em>Kapsamlı Günlük Planlama:</em> Her günü puan değeri (P) ve süre (D) değerleri vererek takip edebileceğiniz görev satırları ile planlayın. Gidişat ile ilgili farkındalık için ayrıca ruh hali izlemesi de yapabilirsiniz.</li><li><em>Haftalık İlerleme Değerlendirmesi:</em> Her haftaya önceki haftanın başarılarını değerlendirerek başlayın ve zaman içinde önceki haftaların durumlarını kontrol edin.</li><li><em>Bütünsel Yaşam Planlaması:</em> Profesyonel hedefleri; kişisel gelişim, arkadaşlar ve aile için kaliteli zaman planlaması ile dengeleyin.</li><li><em>Stratejik Problem Çözme:</em> Zorlukları ve potansiyel faydaları da planlamanıza katarsanız engelleri büyüme fırsatlarına dönüştürebilirsiniz.</li></ul>"
+          "content_html": "<ul><li><em>Günlük Takip:</em> Görevlerinizi puan (P) ve süre (D) değerleriyle planlayın; ruh halinizi de izleyin.</li><li><em>Haftalık Değerlendirme:</em> Geçen haftanın başarılarını analiz edin, gelişiminizi izleyin.</li><li><em>Dengeli Yaşam:</em> İş hedeflerini kişisel gelişim ve sosyal zamanla dengeleyin.</li><li><em>Stratejik Problem Çözme:</em> Zorlukları ve potansiyel faydaları da planlamanıza katarsanız engelleri büyüme fırsatlarına dönüştürebilirsiniz.</li></ul>"
         },
         {
           "title": "Defterin İçindeki Stratejik Düşünme Araçları",
-          "content_html": "<ul><li><em>SWOT Analizi Çerçevesi:</em> Güçlü yönleri, zayıflıkları, fırsatları ve tehditleri analiz etmek için tasarlanmış sayfalarla stratejik potansiyelinizi açığa çıkarın.</li><li><em>İş Modeli Tuvali:</em> Değer önerileri, müşteri segmentleri ve gelir akışları dahil temel iş bileşenlerinin net görselleştirilmesine ihtiyaç duyan girişimciler için \"business model canvas\" etkili bir araçtır.</li></ul>"
+          "content_html": "<ul><li><em>SWOT Analizi:</em> Güçlü yönler, zayıflıklar, fırsatlar ve tehditleri analiz edin.</li><li><em>İş Modeli Tuvali:</em> Değer önerileri, müşteri segmentleri ve gelir akışlarını görselleştirin.</li></ul>"
         }
       ],
-      "why_buy": "İster ekip yönetiyor, ister bir startup büyütüyor, isterse iddialı kişisel hedefler peşinde koşuyor olun, haftalık planlayıcı geleneksel planlamanın ötesine geçerek özel üretkenlik ortağınız haline gelir. Hem acil görevlere hem de uzun vadeli stratejilere odaklanmanızı sağlarken, kişisel ilişkilerinizi ve kişisel gelişiminizi beslemenizi hatırlatır. Sadece bir planlama aracından fazlası olarak, tekrar ziyaret edip geliştirebileceğiniz proje fikirleriniz ve stratejik görüşleriniz için somut bir hafıza görevi görür. Hassas iş görüşlerinizi dijital tehditlerden ve veri ihlallerinden koruyan çevrimdışı, fiziksel format ile stratejik planlarınızı güvende tutun ve kötü niyetli gözlerden uzak tutun. Çevik Haftalık Planlayıcı Defteri ile zamanınızın, fikirlerinizin ve yaşam dengenizin tam kontrolünü elinize alın."
+      "why_buy": "Haftalık Planlayıcı, görev takibinin yanı sıra stratejik düşünme, yaşam dengesi ve veri güvenliği sağlar. Dijital risklerden uzak, fiziksel formatıyla fikirlerinizi korur. Hem kısa vadeli işlerinizde hem uzun vadeli hedeflerinizde güvenilir yol arkadaşınızdır."
     },
     {
       "category": "Çalışma Rehberleri",
@@ -41,15 +41,15 @@
       "images": [
         "book-yapay-zeka-ile-konusmak.png"
       ],
-      "html_desc": "Yapay zeka iletişiminde ve komut mühendisliğinde uzmanlaşmanız için tasarlanan, sürekli güncellenen rehber, pratik alıştırmalarla size yol gösterir.",
-      "short_desc": "Yapay zeka çağında geleceğe yönelik bir köprü görevi gören rehber, teknolojinin hayatımızın her alanına nüfuz etmesiyle ortaya çıkan kaçınılmaz değişimlere uyum sağlamanıza yardımcı olmayı hedefliyor. Yapay zeka okuryazarlığınızı güçlendirerek, en güncel gelişmeleri, farklı sektörlerdeki pratik uygulamaları ve iş dünyasına etkilerini anlaşılır bir dille aktarıyor. Aynı zamanda, yapay zeka araçlarını etkin bir şekilde kullanabilmeniz için zengin komut örnekleri sunarak sizi geleceğe hazırlıyor. Böylece, yapay zekanın sunduğu fırsatlardan en iyi şekilde yararlanarak, teknolojik dönüşümün sadece bir tanığı değil, aynı zamanda aktif bir parçası olmanızı amaçlıyor.",
+      "html_desc": "Yapay zekayla etkili iletişim kurmayı ve komut yazımını öğretmek için tasarlanmış, düzenli güncellenen pratik rehber.",
+      "short_desc": "Yapay Zeka ile Konuşmak Rehberi, teknolojik dönüşüme uyum sağlamanızı kolaylaştırır. Yapay zeka okuryazarlığınızı güçlendirir, güncel örnekler ve komut şablonlarıyla pratik kullanım sağlar. Böylece yapay zekanın sunduğu fırsatlardan aktif şekilde yararlanarak geleceğin bir parçası olmanızı destekler.",
       "detail_desc": [
         {
           "title": "Kitap Hakkında",
-          "content_html": "<p>Yapay zeka ile Konuşmak Çalışma Rehberi, yapay zekayla etkili iletişim kurma zanaatında ustalaşmak isteyenler için bağımsız ve sürekli güncellenen bir kaynaktır. Temel yapay zeka kavramlarından, büyük dil modellerine, etik risklere, gerçek dünya örneklerine ve müzik veya görsel üretim gibi yaratıcı uygulamalara kadar karmaşık konuları net bir dille açıklar.</p><p>Teorik bilgilerin yanı sıra, rehber, komut tasarımı becerilerinizi güçlendirmek için pratik çerçeveler, örnekler ve alıştırmalar sunar. Hem yeni başlayanlar hem de deneyimli kullanıcılar için yapılandırılan rehber, yapay zekayı derinlemesine anlamak ve günlük işlerde veya yaratıcı projelerde etkin kullanmak isteyen herkes için güvenilir bir başvuru kaynağıdır.</p><p>Rehberin ana odak noktalarından biri komut mühendisliğidir. Okuyucular, şu teknikleri keşfedeceklerdir:</p><ul><li>Sıfır Vuruşlu Prompt (Zero-Shot Prompting)</li><li>Az Örnekli Prompt (Few-Shot Prompting)</li><li>Zincirleme Yapıda Prompt (Interactive Prompt Chaining)</li><li>Düşünce Zincirli Prompt (Chain of Thought Prompting)</li><li>Düşünce Ağacı Yapısında Prompt (Tree of Thoughts Prompting)</li><li>Promptu Yeniden Şekillendirme (Prompt Reframing)</li><li>Kendinden Tutarlı Yönlendirmeli Prompt (Self Consistency Prompting)</li><li>Doğrudan Uyarıcı Prompt (Direct Stimulus Prompting)</li><li>Talimat Tabanlı Prompt (Instruction Based Prompting)</li><li>Benzetme Tabanlı Prompt (Analogical Reasoning / Association Prompting)</li><li>Prompt Oluşturan Prompt (Meta Prompting)</li><li>Şablon Tabanlı Prompt (Template Based Prompting)</li><li>Karşılaştırmalı Prompt (Contrastive / Comparison / Contrast Prompting)</li><li>Keşifsel Prompt (Exploratory Prompting)</li><li>Koşullu Prompt (Conditional Prompting)</li><li>Geniş Alan Aktifleştiren Prompt (Latent Space Activation Prompting)</li><li>Rol Yapma Yapısında Prompt (Role Playing / Scenario-Based Prompting)</li></ul><p>Çalışma rehberi, okuyuculara en güncel stratejileri sunarak sürekli olarak yeni teknikler, bilgiler ve örneklerle genişlemektedir. Yeni bölümler talep üzerine alıcılara sağlanır.</p>"
+          "content_html": "<p>Yapay Zeka ile Konuşmak Rehberi, yapay zekayla etkili iletişim kurmak isteyenler için sürekli güncellenen bir kaynaktır. Temel kavramlardan etik konulara, yaratıcı uygulamalardan gerçek dünya örneklerine kadar geniş bir yelpazeyi sade bir dille açıklar.</p><p>Komut (prompt) tasarımı becerilerinizi geliştirmek için pratik çerçeveler, örnekler ve alıştırmalar sunar. Hem yeni başlayanlar hem de deneyimli kullanıcılar için uygundur.</p><p>Rehberin ana odak noktalarından biri prompt mühendisliğidir. Okuyucular, şu teknikleri keşfedeceklerdir:</p><ul><li>Sıfır Vuruşlu Prompt (Zero-Shot Prompting)</li><li>Az Örnekli Prompt (Few-Shot Prompting)</li><li>Zincirleme Yapıda Prompt (Interactive Prompt Chaining)</li><li>Düşünce Zincirli Prompt (Chain of Thought Prompting)</li><li>Düşünce Ağacı Yapısında Prompt (Tree of Thoughts Prompting)</li><li>Promptu Yeniden Şekillendirme (Prompt Reframing)</li><li>Kendinden Tutarlı Yönlendirmeli Prompt (Self Consistency Prompting)</li><li>Doğrudan Uyarıcı Prompt (Direct Stimulus Prompting)</li><li>Talimat Tabanlı Prompt (Instruction Based Prompting)</li><li>Benzetme Tabanlı Prompt (Analogical Reasoning / Association Prompting)</li><li>Prompt Oluşturan Prompt (Meta Prompting)</li><li>Şablon Tabanlı Prompt (Template Based Prompting)</li><li>Karşılaştırmalı Prompt (Contrastive / Comparison / Contrast Prompting)</li><li>Keşifsel Prompt (Exploratory Prompting)</li><li>Koşullu Prompt (Conditional Prompting)</li><li>Geniş Alan Aktifleştiren Prompt (Latent Space Activation Prompting)</li><li>Rol Yapma Yapısında Prompt (Role Playing / Scenario-Based Prompting)</li></ul><p>Çalışma rehberi, okuyuculara en güncel stratejileri sunarak sürekli olarak yeni teknikler, bilgiler ve örneklerle genişlemektedir. Yeni bölümler talep üzerine okurlara sunulur.</p>"
         }
       ],
-      "why_buy": "İster yapay zekaya yeni başlayan biri olun ister ileri düzey becerilerinizi geliştirmek isteyin, Yapay zeka ile İletişim Çalışma Rehberi insan ve yapay zeka arasındaki iletişimi ustalıkla kurmanız için vazgeçilmez bir kaynaktır. Karmaşık kavramları anlaşılır açıklamalara dönüştürerek, kullanıma hazır komut şablonları sunar ve pratik alıştırmalarla size rehberlik eder. Hızla gelişen yapay zeka dünyasına ayak uydurmak için sürekli güncellenen rehber, en yeni teknikleri ve en iyi uygulamaları her zaman elinizin altında tutmanızı sağlar. Bir kitaptan çok daha fazlası olan kaynak, yapay zekayı işinizde, yaratıcılıkta ve günlük problem çözme süreçlerinizde güvenle kullanmanıza yardımcı olan yaşayan bir kılavuzdur."
+      "why_buy": "Yapay zekayla etkili iletişim kurmayı öğrenmek isteyen herkes için pratik, sürekli güncellenen bir rehberdir. Karmaşık kavramları sadeleştirir, hazır komut şablonları ve alıştırmalarla sizi yönlendirir. İş, yaratıcılık veya günlük yaşamda yapay zekayı bilinçli ve güvenli şekilde kullanmanızı sağlar."
     },
     {
       "category": "Çalışma Rehberleri",
@@ -71,29 +71,127 @@
           "content_html": "<p>Programlama İngilizcesi Kelime Rehberi ve Alıştırma Defteri, programlama endüstrisinde sıkça kullanılan kelime ve ifadelerle İngilizce kelime dağarcığınızı genişletmenize yardımcı olmak üzere tasarlanmıştır. Rehber, özenle seçilmiş 2.222 kelime içerir ve her biri, Türkçe çevirisi ile gerçek programlama bağlamlarından alınmış örnek cümlelerle birlikte sunulur. Öğrenimi kalıcı hale getirmek için, alıştırma defteri çalıştığınız kelimeleri pekiştirmenize ve gözden geçirmenize olanak tanır.</p><p>Özel derleme aynı zamanda, programlama dünyasının en büyük bilgi paylaşım platformlarından biri olan Stack Overflow'dan alınmış örnekler de sunar. Kelime ve ifadelerin birçoğu teknik tartışmalarda yaygın olarak karşımıza çıkar ancak geleneksel dil kaynaklarında genellikle göz ardı edilir. Otantik örnekler ve net çeviriler sayesinde rehber, başlangıç ve orta seviye öğrenicilerin profesyonel programlama ortamlarında İngilizceyi anlamalarını ve güvenle kullanmalarını kolaylaştırır.</p>"
         }
       ],
-      "why_buy": "İster uluslararası ekip arkadaşlarınızla iletişim kurun, ister uzaktan çalışma fırsatlarına hazırlanın, ister sadece teknik İngilizcenizi güçlendirmek isteyin; Yazılım İngilizcesi Kelime Rehberi size ihtiyacınız olan kelime dağarcığını sunar. 2.222 terim, Türkçe çevirileri ve Stack Overflow'dan alınmış bağlam açısından zengin örneklerle, İngilizce öğrenimini pratik iletişim becerilerine dönüştürmek için güçlü bir kaynaktır. Kelimeleri doğrudan gerçek Stack Overflow örneklerinden öğrenerek, sadece İngilizcenizi geliştirmekle kalmayacak, aynı zamanda terimlerin gerçek teknik konuşmalarda nasıl kullanıldığını da göreceksiniz."
+      "why_buy": "Yazılım İngilizcesi Rehberi, teknik İngilizcenizi geliştirmek ve küresel ekiplerle daha rahat iletişim kurmak için güçlü bir kaynaktır. 2.222 terim, Türkçe karşılıkları ve gerçek Stack Overflow örnekleriyle, öğrenimi doğrudan pratik iletişime dönüştürür."
     },
     {
       "category": "Çalışma Rehberleri",
       "category_url": "calisma-rehberleri",
-      "name": "Tarihe Geçen Programatik Hatalar Çalışma Rehberi",
+      "name": "Tarihe Geçen Programatik Felaketler Çalışma Rehberi",
       "price": "$10.00",
-      "url_name": "book-tarihe-gecen-programatik-hatalar",
-      "full_url": "turkce.anatolia.solutions/products/book-tarihe-gecen-programatik-hatalar.html",
+      "url_name": "book-tarihe-gecen-programatik-felaketler",
+      "full_url": "turkce.anatolia.solutions/products/book-tarihe-gecen-programatik-felaketler.html",
       "pay_url": "buy.stripe.com/aFa4gA3NE4SDdAj452cQU0b",
-      "keywords": "meşhur programlama hataları, tarihi önemde yazılım hataları, geçmiş teknik hatalardan alınan programlama dersleri",
+      "keywords": "programatik felaketler, meşhur programlama hataları, tarihi önemde yazılım hataları, geçmiş teknik hatalardan alınan programlama dersleri",
       "images": [
-        "book-tarihe-gecen-programatik-hatalar.png"
+        "book-tarihe-gecen-programatik-felaketler.png"
       ],
-      "html_desc": "Tarihteki Meşhur Programlama Hataları Çalışma Rehberi ile yazılım dünyasının kötü şöhretli hatalarını ve güvenlik açıklarını keşfedin; yazılım güvenilirliğini artırmaya ve pahalıya mal olabilecek hataları önlemeye yardımcı olacak pratik dersler edinin.",
-      "short_desc": "Tarihteki Meşhur Programlama Hataları Çalışma Rehberi, ünlü yazılım hataları ve güvenlik açıklarını ele alıyor; küçük yanlışların nasıl büyük kesintilere, veri sızıntılarına ve mali kayıplara yol açtığını gösteriyor. Açık ve anlaşılır açıklamalarıyla, çıkarılan dersler sayesinde okurların eleştirel düşünme becerilerini geliştirmelerine ve yazılım güvenilirliğini daha iyi kavramalarına yardımcı oluyor.",
+      "html_desc": "Programlama tarihinin en büyük hatalarını ve güvenlik açıklarını keşfedin; program güvenilirliğini artırmak ve benzer felaketleri önlemek için gerçek olaylardan çıkarılan pratik dersleri öğrenin.",
+      "short_desc": "Büyük sorunlara yol açmış ünlü programlama hatalarını ve güvenlik açıklarını örneklerle açıklayarak küçük kodlama hatalarının nasıl büyük sistem çöküşlerine ve veri kayıplarına yol açtığını gösteriren bir çalışmadır. Açık anlatımıyla program ve otomasyon güvenilirliği bilincini ve eleştirel düşünme becerilerinizi geliştirmenize yardımcı olur.",
       "detail_desc": [
         {
           "title": "Kitap Hakkında",
-          "content_html": "<p>Tarihteki Meşhur Programlama Hataları Çalışma Rehberi, gerçek dünyadaki yazılım hatalarının, güvenlik açıklarının ve programlama yanlışlarının nasıl büyük ölçekli olaylara yol açtığını inceliyor. Yanlış yapılandırmalar ve güvensiz güncellemelerden zayıf kimlik doğrulamaya ve gözden kaçan açıkların yol açtığı sorunlara kadar, küçük dikkatsizliklerin nasıl kesintilere, veri sızıntılarına ve milyonları etkileyen mali kayıplara dönüştüğünü gözler önüne seriyor. Vakalar, modern sistemlerin birbirine ne kadar bağlı olduğunu ve tek bir noktadaki kusurun tüm organizasyona nasıl yayılabileceğini ortaya koyuyor.</p><p>Teknik ayrıntıların ötesinde, rehber güvenlik odaklı bir bakış açısı geliştirmenin önemini vurguluyor. Her vaka çalışması, yalnızca nelerin yanlış gittiğini değil, aynı zamanda olay sonrası toparlanma sürecini de açıklıyor. Hikâye anlatımı ile pratik dersleri birleştiren yaklaşım sayesinde, kötü şöhretli hatalar gelecekteki yanlışları önlemeye yönelik değerli içgörülere dönüşüyor.</p><p>Hem teknik hem de teknik olmayan okuyucular için tasarlanan kaynak, karmaşık olayları anlaşılır ve ilgi çekici hale getiriyor. Okuma sonunda riskleri daha erken fark etmeye, yazılım güvenilirliğine dair bilginizi güçlendirmeye ve işinizde ya da kurumunuzda daha dayanıklı uygulamalara katkıda bulunmaya hazır hale geleceksiniz.</p>"
+          "content_html": "<p>Tarihe Geçen Programatik Felaketler Çalışma Rehberi, yazılım hatalarının, güvenlik açıklarının ve yanlış yapılandırmaların nasıl büyük krizlere yol açtığını inceler. Gerçek vakalar, küçük hataların sistemsel kesintilere, veri sızıntılarına ve mali kayıplara nasıl dönüştüğünü gösterir.</p> <p>Rehber, teknik detayların ötesine geçerek güvenlik odaklı düşünmenin önemini vurgular. Her olay hem hatanın nedenini hem de toparlanma sürecini anlatır; böylece geçmiş hatalardan geleceğe yönelik dersler çıkarılır.</p> <p>Hem teknik hem de genel okuyuculara hitap eden kaynak, karmaşık olayları sade bir dille aktarır. Okuyucu, yazılım güvenilirliği ve risk farkındalığı konusunda daha bilinçli ve dayanıklı hale gelir.</p>"
         }
       ],
-      "why_buy": "Tarihteki Meşhur Programlama Hataları Çalışma Rehberi, yazılım dünyasının en bilinen arızalarını yalnızca sıralamakla kalmaz; arka plandaki nedenleri açığa çıkarır ve farklı şekillerde nasıl önlenebileceğini gösterir. Gerçek dünya örneklerini inceleyerek eleştirel düşünme becerilerinizi geliştirebilir, yazılım güvenilirliğini daha iyi anlayabilir ve kendi projelerinizde pahalıya mal olabilecek hatalardan kaçınmanıza yardımcı olacak içgörüler kazanabilirsiniz."
+      "why_buy": "Gerçek dünya örneklerini inceleyerek eleştirel düşünme becerilerinizi geliştirebilir, yazılım güvenilirliğini daha iyi anlayabilir ve kendi projelerinizde pahalıya mal olabilecek hatalardan kaçınmanıza yardımcı olacak içgörüler kazanabilirsiniz."
+    },
+    {
+      "category": "Program ve Otomasyon Çözümleri",
+      "category_url": "program-otomasyon",
+      "name": "Minimum Bağımlılıklı Web Sitesi Sistemi",
+      "price": "$200.00",
+      "url_name": "minimum-bagimlilikli-web-sitesi-sistemi",
+      "full_url": "anatolia.solutions/products/minimum-bagimlilikli-web-sitesi-sistemi.html",
+      "pay_url": "buy.stripe.com/3cIfZigAqbh153NfNKcQU0d",
+      "keywords": "statik web sitesi oluşturucu, veritabanı gerektirmeyen web sitesi, cloudflare barındırma, github sayfaları, güvenli web sitesi çözümü, sql enjeksiyonuna dayanıklı, json tabanlı web sitesi, düşük bakım gerektiren web sitesi, sunucusuz web sitesi, ddos korumalı web sitesi, sürüm kontrollü içerik, başka sistemlere bağımlı olmayan web sitesi",
+      "images": [
+        "lightweight-website-system.png"
+      ],
+      "html_desc": "GitHub Pages ve Cloudflare kullanan, veritabanı gerektirmeyen statik web sitesi sistemi. SSL, DDoS koruması ve sıfır sunucu bakımıyla güvenli, yüksek performanslı web siteleri sunar.",
+      "short_desc": "Veritabanı veya sunucu yönetimi olmadan güvenli, hızlı ve sürdürülebilir web çözümleri sunuyoruz. GitHub Pages altyapısı SSL güvenliği sağlarken, Cloudflare DNS DDoS koruması ve güvenli yönlendirme özellikleri ekler. İçerikleriniz JSON dosyaları üzerinden kolayca yönetilir, sürüm kontrolü otomatik yapılır ve sistem tamamen optimize edilerek tarafımızca kuruluma hazır hale getirilir.",
+      "detail_desc": [
+        {
+          "title": "Doğal Olarak Güvenli Mimari",
+          "content_html": "<p>Statik HTML tabanlı yapı, birçok güvenlik açığını yapısal olarak ortadan kaldırır. Veritabanı bulunmadığından SQL enjeksiyon riski yoktur. Sunucu yapılandırması gerektirmediği için güvenlik duvarı, yama veya açık port yönetimi gibi konularla uğraşmanız gerekmez. Cloudflare kurallarıyla coğrafi engelleme, bot koruması ve tarayıcı bütünlüğü denetimi gibi özel güvenlik politikaları oluşturulur. DNSSEC doğrulamasıyla DNS yanıtlarının bütünlüğü korunur.</p>"
+        },
+        {
+          "title": "Verimli ve Güvenli İçerik Yönetimi",
+          "content_html": "<p>Sistem, içerik güncellemelerini düzenli ve güvenli hale getirir. Ekip çalışması için onaylı değişiklik akışı (pull request) ve sürüm kontrolü standart hale gelir. Otomatik denetimler sayesinde hatalı JSON veya HTML düzenlemeleri yayına alınmadan tespit edilir. Böylece içerik yönetimi, karmaşadan uzak ve güvenilir bir sürece dönüşür.</p>"
+        },
+        {
+          "title": "Kurulum ve Eğitim Dahil",
+          "content_html": "<p>Tüm teknik kurulumu sizin için biz gerçekleştiriyoruz. Buna alan adınızın Cloudflare nameserver’larıyla yapılandırılması, GitHub deposunun Pages’e bağlanması, SSL sertifikalarının etkinleştirilmesi ve güvenlik gereksinimleriniz için Cloudflare kurallarının oluşturulması dahildir. Sisteminiz, seçtiğiniz şablon kurulmuş ve yapılandırılmış şekilde kullanıma hazır olarak gelir. HTML veya JSON düzenleme konusunda deneyiminiz yoksa, içeriğinizi rahatça yönetebilmeniz için uygulamalı eğitim sağlıyoruz. Ne düzenleyeceğinizi, değişiklikleri nasıl güvenli biçimde kaydedeceğinizi ve hataları önlemek için sürüm kontrolünü nasıl kullanacağınızı öğrenirsiniz. Önceden teknik bir deneyime sahip olmanız gerekmez.</p>"
+        }
+      ],
+      "why_buy": "Geleneksel web siteleri sık sık güncelleme, yama ve sunucu bakımı ister. Eklentiler uyumsuzluklara yol açar, veritabanları güvenlik açıkları oluşturur. Basit içerik yönetimi ile yüksek güvenlik ve performansı bir araya getirdiğimiz sistemde, teknik karmaşıklığı ortadan kaldırarak zamandan ve maliyetten tasarruf etmenizi sağlıyoruz."
+    },
+    {
+      "category": "Program ve Otomasyon Çözümleri",
+      "category_url": "program-otomasyon",
+      "name": "Minimum Bağımlılıklı Alışveriş Sepeti Sistemi",
+      "price": "$300.00",
+      "url_name": "minimum-bagimlilikli-alisveris-sepeti-sistemi",
+      "full_url": "anatolia.solutions/products/minimum-bagimlilikli-alisveris-sepeti-sistemi.html",
+      "pay_url": "buy.stripe.com/aFa6oIbg6bh153N6dacQU0e",
+      "keywords": "veritabanı gerektirmeyen alışveriş sepeti, güvenli e-ticaret, whatsapp alışveriş sepeti, anlık mesajlaşma ile sipariş, gdpr uyumlu alışveriş, müşteri verisi saklamayan sistem, konum tabanlı teslimat, gizlilik odaklı e-ticaret, statik alışveriş sepeti, hafif çevrimiçi mağaza",
+      "images": [
+        "lightweight-shopping-cart-system.png"
+      ],
+      "html_desc": "Müşteri siparişlerinin WhatsApp veya benzeri mesajlaşma uygulamaları üzerinden gönderildiği, veritabanı gerektirmeyen alışveriş sepeti sistemi. Kişisel veri saklanmadığı için GDPR/KVKK uyumluluğu otomatik sağlanır ve veri ihlali riski ortadan kalkar.",
+      "short_desc": "Müşteri verilerini saklamadan güvenli şekilde sipariş alın. Müşteriler ürünleri sepete ekler ve siparişlerini doğrudan WhatsApp veya benzeri mesajlaşma uygulamaları üzerinden gönderir. Veritabanı kullanılmadığından kişisel veri depolama zorunluluğu ve yasal yükümlülükler ortadan kalkar. Müşteriler adres yazmak yerine konumlarını paylaşabilir, böylece teslimat süreci hızlanır ve kolaylaşır.",
+      "detail_desc": [
+        {
+          "title": "Sıfır Veri Saklama, Sıfır Yükümlülük",
+          "content_html": "<p>Geleneksel e-ticaret sistemleri müşteri bilgilerini veritabanlarında tutar. Bu durum GDPR ve KVKK gibi gizlilik yasaları kapsamında ciddi sorumluluklar doğurur. Her bir veri için açık rıza, silme prosedürü ve ihlal bildirimi gibi süreçler gerekir. Bizim çözümümüzde bu yük tamamen ortadan kalkar çünkü müşteri bilgileri doğrudan onların cihazından sizin mesajlaşma uygulamanıza iletilir, altyapınızda hiçbir veri depolanmaz. Böylece veri sızıntısı veya ihlal riski bulunmaz. Veri güvenliği sorumluluğu WhatsApp, Telegram veya kullanılan diğer mesajlaşma platformuna aittir; siz yalnızca siparişi mesaj olarak alırsınız ve yasal yükümlülük altına girmezsiniz.</p>"
+        },
+        {
+          "title": "Anlık Mesajlaşma ile Sipariş Akışı",
+          "content_html": "<p>Müşteriler ürün kataloğunuzu gezebilir, sepete ürün ekleyebilir ve siparişlerini modern bir alışveriş deneyimiyle hazırlayabilir. Satın alma aşamasında bir düğmeye tıklayarak sepet içeriğini tercih ettikleri mesajlaşma uygulaması aracılığıyla size gönderir. Mesajda ürün adları, miktarlar, fiyatlar ve toplam tutar yer alır. Yakın mesafe teslimatlar için müşteriler adres yazmak yerine konumlarını paylaşabilir. Böylece adres hataları önlenir, teslimat süreci hızlanır ve daha kullanıcı dostu hale gelir. Siz siparişi mesaj olarak alır, stok ve teslimat detaylarını teyit eder, ödemeyi mevcut iş akışınıza göre tamamlarsınız.</p>"
+        },
+        {
+          "title": "Tanıdık ve Güvenli Teknik Altyapı",
+          "content_html": "<p>Ürünler ve fiyatlar JSON dosyalarında sürüm kontrolüyle saklanır. Katalog, GitHub Pages üzerinde SSL ile barındırılır, Cloudflare DNS güvenliği ve DDoS koruması sağlar. Sepet işlevi tamamen tarayıcı tarafında çalışan JavaScript ile gerçekleştirilir, sunucu veya veritabanı gerekmez. Müşteri siparişini tamamladığında, JavaScript sepet içeriğini biçimlendirip mesajlaşma uygulamasını açar. Alan adı yapılandırması, SSL kurulumu, Cloudflare kuralları ve şablon özelleştirmesi tarafımızca yapılır. Eğitim kapsamında ürün ve fiyat yönetimi, JSON düzenleme ve sepet yapılandırması konularında uygulamalı destek sunulur. Teknik deneyim gerekmez.</p>"
+        }
+      ],
+      "why_buy": "Geleneksel e-ticaret sistemleri müşteri verilerini depoladığı için GDPR ve KVKK gibi yasal düzenlemelere tabi olur. Hem güvenlik hem de operasyonel açıdan ciddi yük ve risk getirir. Veri sızıntıları marka itibarını zedeler, yüklü cezalar ödetir, sürekli yama ve bakım gereksinimleri ayrıca maliyetleri artırır. Sistemimiz kişisel verileri hiç depolamadığı için bu riskleri tamamen ortadan kaldırır."
+    },
+    {
+      "category": "Program ve Otomasyon Çözümleri",
+      "category_url": "program-otomasyon",
+      "name": "Mahalli Sipariş Platformu",
+      "price": "$500.00",
+      "url_name": "mahalli-siparis-platformu",
+      "full_url": "anatolia.solutions/products/mahalli-siparis-platformu.html",
+      "pay_url": "buy.stripe.com/placeholder",
+      "keywords": "mahalle alışveriş platformu, çok satıcılı pazar yeri, yerel alışveriş ağı, topluluk pazarı, ürün kategorisi filtreleme, satıcı bazlı gruplama, yerel teslimat platformu, mahalle ticareti, çoklu sepet sistemi, gizlilik odaklı pazar yeri",
+      "images": [
+        "community-shopping-hub.png"
+      ],
+      "html_desc": "Mahalle esnaflarının Minimum Bağımlılıklı Alışveriş Sepeti sistemlerini tek bir çatı altında birleştiren Mahalli Sipariş Platformu; ürünleri kategoriye, satıcıya veya türüne göre filtreleyerek yerel işletmelerden kolayca sipariş vermenizi sağlar.",
+      "short_desc": "Mahalli Sipariş Platformu, farklı yerel satıcıların Minimum Bağımlılıklı Alışveriş Sepeti sistemlerini tek bir arayüzde buluşturarak mahalle temelli bir alışveriş deneyimi sunar. Müşteriler çeşitli işletmelerin ürünlerini tek ekranda görüntüler, kategoriye veya satıcıya göre filtreleme yapar ve siparişlerini tercih ettikleri mesajlaşma uygulaması üzerinden verir. Her satıcı kendi bağımsız sistemini korurken, tüm işletmeler ortak bir platformda görünür hale gelir. Böylece kişisel veriler hiçbir yerde depolanmadan güvenli, pratik ve yerel bir alışveriş ağı oluşur.",
+      "detail_desc": [
+        {
+          "title": "Birleşik Mahalle Alışveriş Deneyimi",
+          "content_html": "<p>Mahalli Sipariş Platformu, kendi Minimum Bağımlılıklı Alışveriş Sepeti sistemine sahip birden fazla yerel işletmenin ürünlerini tek bir arayüzde bir araya getirir. Artık fırın, manav veya restoran sitelerini ayrı ayrı ziyaret etmenize gerek yok. Tüm ürünler kategorilere göre düzenli biçimde tek platformda sunulur. Akıllı filtreleme sayesinde kullanıcılar ürün türüne (yiyecek, ev eşyası, hizmet), kategoriye (fırın, sebze, hazır yemek) veya içeriğe (glütensiz, vegan, organik) göre arama yapabilir. Ürünler hangi işletmeye ait olduğunu açıkça gösterir ve siparişler, her satıcının güvenli mesajlaşma akışı üzerinden ilgili işletmeye yönlendirilir.</p>"
+        },
+        {
+          "title": "Tüm Satıcılarda Korunan Gizlilik",
+          "content_html": "<p>Platform, hiçbir merkezi veritabanında müşteri bilgilerini saklamaz. Siparişler doğrudan müşteriden ilgili satıcının mesajlaşma uygulamasına iletilir, ortak bir altyapıya dokunmaz. Her satıcı yalnızca kendisine gönderilen siparişleri görür, böylece işletmeler arası gizlilik korunur. Tüm toplama işlemi, müşterinin tarayıcısında çalışan JavaScript tarafından gerçekleştirilir; veriler satıcıların statik JSON dosyalarından çekilir. Sunucu tarafında işlem yapılmaz, müşteri davranışları kaydedilmez ve hiçbir merkezi yapı işlem detaylarına erişmez.</p>"
+        },
+        {
+          "title": "Kolay Satıcı Entegrasyonu",
+          "content_html": "<p>Platforma katılmak, mevcut Minimum Bağımlılıklı Alışveriş Sepeti Sistemine yalnızca küçük bir ekleme gerektirir. Satıcılar ürün JSON dosyalarına standart meta alanları (kategori, içerik, ürün türü) ekler ve verilerini platformun yapılandırmasına kaydeder. Sistem bilgileri otomatik olarak çekip, diğer işletmelerle birlikte gösterir. Her satıcı kendi ürün kataloğunu, fiyatlarını ve sipariş yönetimini tamamen kontrol eder. Dilediklerinde sisteme katılıp ayrılabilirler; diğer katılımcıları etkilemeden bağımsız şekilde çalışmaya devam ederler.</p>"
+        },
+        {
+          "title": "Açık Kaynak ve Şeffaf Yapı",
+          "content_html": "<p>Mahalli Sipariş Platformu tamamen açık kaynaklıdır ve GitHub’daki <a href=\"https://github.com/orgs/dbless-commerce\" target=\"_blank\">dbless-commerce organizasyonu</a> altında yayınlanmaktadır. Tüm kodu inceleyebilir, sistemin nasıl çalıştığını görebilir ve isterseniz geliştirmelere katkı sunabilirsiniz. Bu sayede kapalı kaynak yazılımlarda görülebilecek gizli veri toplama veya güvenlik açıkları riski ortadan kalkar. Teknik ekipler sistemi denetleyebilir, kendi ihtiyaçlarına göre özelleştirebilir veya bağımsız sürümler oluşturabilir. Açık kaynak yaklaşımı sayesinde çözüm herhangi bir sağlayıcıya bağımlı kalmadan, herkesçe sürdürülebilir hale gelir.</p>"
+        },
+        {
+          "title": "Tam Kurulum ve Satıcı Eğitimi",
+          "content_html": "<p>Kurulum sürecinde seçilen mahalle işletmeleriyle birlikte Mahalli Sipariş Platformu yapılandırılır. GitHub Pages üzerinde barındırma, Cloudflare koruması, SSL kurulumu ve güvenlik ayarları tarafımızca yapılır. Hem sorumlular hem de katılan satıcılar için eğitim sağlanır. Satıcılar ürün verilerini platforma uygun biçimde düzenlemeyi öğrenir. Tüm sistem, teknik bilgi gerektirmeden kullanıma hazır hale getirilir.</p>"
+        }
+      ],
+      "why_buy": "Yerel işletmeler, müşterilerin her şeyi tek yerde bulmak istemesi nedeniyle büyük platformlara müşteri kaybeder. Geleneksel çok satıcılı pazar yerleri yüksek komisyonlar alır, müşteri verilerini depolayarak GDPR/KVKK riski yaratır ve satıcıları kapalı sistemlere bağımlı hale getirir. Mahalli Sipariş Platformu bu sorunları ortadan kaldırır. Kişisel veri depolamadan, komisyonsuz ve bağımsız bir yapı sunar. Her işletme kendi Minimum Bağımlılıklı Alışveriş Sepeti Sistemini korur, ancak mahalle genelinde daha fazla görünürlük kazanır. Müşteriler tüm yerel ürünleri tek platformda görüntüler, filtreleyerek arama yapar ve siparişlerini doğrudan mesajlaşma uygulamaları üzerinden verir. Tüm kurulum, satıcı entegrasyonu ve eğitim tarafımızca sağlanır. Gizliliği koruyan, yereli güçlendiren ve sürdürülebilir bir ticaret ağı kurmak için ideal çözümdür."
     }
   ]
 }
