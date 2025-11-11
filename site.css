@@ -225,8 +225,6 @@ ul#tl>li {
 ul#tl>li:hover {
     background: #202020;
     border-left-color: #d2292d;
-    box-shadow: 0 5px 15px #000000b3;
-    transform: translateX(5px);
 }
 
 ul#tl>li h3 {
@@ -261,12 +259,10 @@ ul#tl>li img {
     height: auto;
     border-radius: 8px;
     box-shadow: 0 3px 10px #00000080;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 ul#tl>li:hover img {
-    transform: scale(1.02);
-    box-shadow: 0 5px 15px #000000b3;
+    box-shadow: 0 3px 10px #00000080;
 }
 
 ul#tl>li p {
@@ -479,14 +475,6 @@ details details summary {
     ul#tl>li {
         padding: 15px;
         margin-bottom: 15px;
-    }
-
-    ul#tl>li:hover {
-        transform: none;
-    }
-
-    ul#tl>li:hover img {
-        transform: none;
     }
 
     ul#tl>li h3 {
