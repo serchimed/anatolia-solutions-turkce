@@ -100,8 +100,8 @@
       "category_url": "program-otomasyon",
       "name": "Minimum Bağımlılıklı Web Sitesi Sistemi",
       "price": "$200.00",
-      "url_name": "minimum-bagimlilikli-web-sitesi-sistemi",
-      "full_url": "anatolia.solutions/products/minimum-bagimlilikli-web-sitesi-sistemi.html",
+      "url_name": "lightweight-website-system",
+      "full_url": "anatolia.solutions/products/lightweight-website-system.html",
       "pay_url": "buy.stripe.com/3cIfZigAqbh153NfNKcQU0d",
       "keywords": "statik web sitesi oluşturucu, veritabanı gerektirmeyen web sitesi, cloudflare barındırma, github sayfaları, güvenli web sitesi çözümü, sql enjeksiyonuna dayanıklı, json tabanlı web sitesi, düşük bakım gerektiren web sitesi, sunucusuz web sitesi, ddos korumalı web sitesi, sürüm kontrollü içerik, başka sistemlere bağımlı olmayan web sitesi",
       "images": [
@@ -130,8 +130,8 @@
       "category_url": "program-otomasyon",
       "name": "Minimum Bağımlılıklı Alışveriş Sepeti Sistemi",
       "price": "$300.00",
-      "url_name": "minimum-bagimlilikli-alisveris-sepeti-sistemi",
-      "full_url": "anatolia.solutions/products/minimum-bagimlilikli-alisveris-sepeti-sistemi.html",
+      "url_name": "lightweight-shopping-cart-system",
+      "full_url": "anatolia.solutions/products/lightweight-shopping-cart-system.html",
       "pay_url": "buy.stripe.com/aFa6oIbg6bh153N6dacQU0e",
       "keywords": "veritabanı gerektirmeyen alışveriş sepeti, güvenli e-ticaret, whatsapp alışveriş sepeti, anlık mesajlaşma ile sipariş, gdpr uyumlu alışveriş, müşteri verisi saklamayan sistem, konum tabanlı teslimat, gizlilik odaklı e-ticaret, statik alışveriş sepeti, hafif çevrimiçi mağaza",
       "images": [
@@ -160,9 +160,9 @@
       "category_url": "program-otomasyon",
       "name": "Mahalli Sipariş Platformu",
       "price": "$500.00",
-      "url_name": "mahalli-siparis-platformu",
-      "full_url": "anatolia.solutions/products/mahalli-siparis-platformu.html",
-      "pay_url": "buy.stripe.com/placeholder",
+      "url_name": "community-shopping-hub",
+      "full_url": "anatolia.solutions/products/community-shopping-hub.html",
+      "pay_url": "buy.stripe.com/8x23cwfwmacX7bVdFCcQU0f",
       "keywords": "mahalle alışveriş platformu, çok satıcılı pazar yeri, yerel alışveriş ağı, topluluk pazarı, ürün kategorisi filtreleme, satıcı bazlı gruplama, yerel teslimat platformu, mahalle ticareti, çoklu sepet sistemi, gizlilik odaklı pazar yeri",
       "images": [
         "community-shopping-hub.png"
