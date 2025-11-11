@@ -10,13 +10,19 @@ body {
     color: #eee;
     font-family: sans-serif;
     font-size: 16px;
-    line-height: 21px;
+    line-height: 1.6;
 }
 
 a {
     color: #d2292d;
     padding: 8px 0;
     display: inline-block;
+    transition: color 0.2s ease;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #f43737;
 }
 
 a:visited {
@@ -29,22 +35,22 @@ h3 {
 }
 
 h1 {
-    font-size: 32px;
+    font-size: 36px;
     margin-left: 19px;
     color: #f43737;
     background: #181818;
 }
 
 h2 {
-    font-size: 34px;
-    line-height: 42px;
+    font-size: 28px;
+    line-height: 1.3;
     padding-bottom: 15px;
     margin-top: 8px;
 }
 
 h3 {
-    font-size: 21px;
-    line-height: 25px;
+    font-size: 19px;
+    line-height: 1.4;
     padding-bottom: 8px;
     padding-top: 13px;
 }
@@ -52,12 +58,13 @@ h3 {
 p {
     padding-top: 5px;
     padding-bottom: 8px;
+    line-height: 1.65;
 }
 
 img {
     border-radius: 8px;
     box-shadow: 0 5px 15px #000000b3;
-    margin-block: 8px;
+    margin-block: 21px;
 }
 
 header,
@@ -99,8 +106,28 @@ main {
     padding: 21px;
 }
 
+span {
+    display: block;
+    margin-bottom: 21px;
+    padding: 13px;
+    background: #1e1e1e;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
 span a,
-span a:visited,
+span a:visited {
+    color: #1761b0;
+    letter-spacing: 0.5px;
+    padding: 4px 0;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+span a:hover {
+    color: #d2292d;
+}
+
 summary a,
 summary a:visited {
     color: #aaa;
@@ -170,13 +197,22 @@ section a {
     display: block;
 }
 
+section em {
+    font-size: 19px;
+    margin-bottom: 1px;
+}
+
 section a,
 div a {
-    margin-top: 1px;
+    margin-top: 0;
     font-size: 17px;
     color: #eee;
     background-color: inherit;
     display: block;
+}
+
+section a {
+    font-size: 19px;
 }
 
 section a:visited,
@@ -186,9 +222,10 @@ div a:visited {
 
 section {
     padding: 34px;
-    margin-block: 21px;
+    margin-block: 34px;
     margin-left: -34px;
     border-radius: 8px;
+    box-shadow: 0 3px 10px #00000080;
 }
 
 ul {
@@ -291,10 +328,12 @@ ul#tl>li em {
 }
 
 strong {
-    font-size: 22px;
+    font-size: 28px;
     display: block;
-    margin-top: 13px;
-    margin-bottom: 5px;
+    margin-top: 21px;
+    margin-bottom: 3px;
+    color: #eee;
+    font-weight: 700;
 }
 
 summary {
@@ -309,7 +348,18 @@ summary {
 }
 
 details {
-    margin-bottom: 8px;
+    margin-bottom: 13px;
+    transition: background 0.2s ease;
+}
+
+details:hover {
+    background: #202020;
+    border-radius: 8px;
+}
+
+details[open] {
+    background: #1e1e1e;
+    border-radius: 8px;
 }
 
 details p {
@@ -354,7 +404,19 @@ details details summary {
 .pay {
     clear: both;
     display: block;
-    margin-bottom: 13px;
+    margin-top: -1px;
+    margin-bottom: 21px;
+    color: #d2292d;
+    text-decoration: underline;
+    transition: color 0.2s ease;
+}
+
+.pay:hover {
+    color: #f43737;
+}
+
+.pay:visited {
+    color: #d2292d;
 }
 
 @media (max-width: 500px) {
@@ -397,7 +459,12 @@ details details summary {
     }
 
     strong {
-        font-size: 20px;
+        font-size: 24px;
+    }
+
+    span {
+        padding: 10px;
+        font-size: 13px;
     }
 
     img {
@@ -443,13 +510,14 @@ details details summary {
 
     summary {
         font-size: 16px;
-        padding: 6px 8px;
+        padding: 13px 8px;
         margin-left: 16px;
+        min-height: 48px;
         -webkit-tap-highlight-color: rgba(255, 255, 255, 0.1);
     }
 
     details {
-        margin-bottom: 6px;
+        margin-bottom: 10px;
     }
 
     details p {
